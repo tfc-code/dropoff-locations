@@ -1,0 +1,421 @@
+{
+    "county": "charlotte",
+    "county_center_lat": 26.953312,
+    "county_center_long": -82.16225800000001,
+    "county_id": "CHA",
+    "display_schedule": false,
+    "display_wait_times": false,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "o25SG63r",
+            "webservices_id": "1",
+            "county_id": "CHA",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 5,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-13 00:00:00",
+                    "end_date": "2018-08-26 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-13": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-13 00:00:00",
+                    "end_date": "2018-08-13 00:00:00"
+                },
+                "2018-08-14": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-14 00:00:00",
+                    "end_date": "2018-08-14 00:00:00"
+                },
+                "2018-08-15": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-15 00:00:00",
+                    "end_date": "2018-08-15 00:00:00"
+                },
+                "2018-08-16": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-16 00:00:00",
+                    "end_date": "2018-08-16 00:00:00"
+                },
+                "2018-08-17": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-17 00:00:00",
+                    "end_date": "2018-08-17 00:00:00"
+                },
+                "2018-08-18": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                },
+                "2018-08-26": {
+                    "id": "ABwTwEXf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-26 00:00:00",
+                    "end_date": "2018-08-26 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": "Punta Gorda SOE Office",
+            "Address": "226 Taylor St",
+            "City": "Punta Gorda",
+            "State": "FL",
+            "Zip": "33950",
+            "Latitude": 26.93469,
+            "Longitude": -82.05062
+        },
+        {
+            "uid": "CRLf8LyW",
+            "webservices_id": "4",
+            "county_id": "CHA",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 4,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-13 00:00:00",
+                    "end_date": "2018-08-26 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-13": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-13 00:00:00",
+                    "end_date": "2018-08-13 00:00:00"
+                },
+                "2018-08-14": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-14 00:00:00",
+                    "end_date": "2018-08-14 00:00:00"
+                },
+                "2018-08-15": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-15 00:00:00",
+                    "end_date": "2018-08-15 00:00:00"
+                },
+                "2018-08-16": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-16 00:00:00",
+                    "end_date": "2018-08-16 00:00:00"
+                },
+                "2018-08-17": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-17 00:00:00",
+                    "end_date": "2018-08-17 00:00:00"
+                },
+                "2018-08-18": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                },
+                "2018-08-26": {
+                    "id": "QAakYhUS",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-26 00:00:00",
+                    "end_date": "2018-08-26 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "4",
+            "Type": "EarlyVoting",
+            "Description": "Mid-County Library",
+            "Address": "2050 Forrest Nelson Blvd",
+            "City": "Port Charlotte",
+            "State": "FL",
+            "Zip": "33952",
+            "Latitude": 27.002996,
+            "Longitude": -82.12312
+        },
+        {
+            "uid": "gY5nL6Jz",
+            "webservices_id": "5",
+            "county_id": "CHA",
+            "db_name": "vr6",
+            "status_updated_at": "2018-05-03 20:58:17",
+            "position": 1,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-13 00:00:00",
+                    "end_date": "2018-08-26 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-13": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-13 00:00:00",
+                    "end_date": "2018-08-13 00:00:00"
+                },
+                "2018-08-14": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-14 00:00:00",
+                    "end_date": "2018-08-14 00:00:00"
+                },
+                "2018-08-15": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-15 00:00:00",
+                    "end_date": "2018-08-15 00:00:00"
+                },
+                "2018-08-16": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-16 00:00:00",
+                    "end_date": "2018-08-16 00:00:00"
+                },
+                "2018-08-17": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-17 00:00:00",
+                    "end_date": "2018-08-17 00:00:00"
+                },
+                "2018-08-18": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                },
+                "2018-08-26": {
+                    "id": "U4zdTSDq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-26 00:00:00",
+                    "end_date": "2018-08-26 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "5",
+            "Type": "EarlyVoting",
+            "Description": "Englewood SOE Office",
+            "Address": "6868 San Casa Dr",
+            "City": "Englewood",
+            "State": "FL",
+            "Zip": "34224",
+            "Latitude": 26.92225,
+            "Longitude": -82.313034
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

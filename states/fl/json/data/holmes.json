@@ -1,0 +1,199 @@
+{
+    "county": "holmes",
+    "county_center_lat": 30.79308,
+    "county_center_long": -85.67842,
+    "county_id": "HOL",
+    "display_schedule": false,
+    "display_wait_times": false,
+    "election_date": "2020-10-06",
+    "election_name": "2020 Ponce de Leon Town Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": 134,
+    "locations": [
+        {
+            "uid": "dxn7WAii",
+            "webservices_id": "1",
+            "county_id": "HOL",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-28 17:01:09",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-10-27 00:00:00",
+                    "end_date": "2018-11-03 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "Qy9Qt3pd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "ZmikgEEC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "apAMZZhW",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-10-27": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-10-27 00:00:00",
+                    "end_date": "2018-10-27 00:00:00"
+                },
+                "2018-10-28": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-10-28 00:00:00",
+                    "end_date": "2018-10-28 00:00:00"
+                },
+                "2018-10-29": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-10-29 00:00:00",
+                    "end_date": "2018-10-29 00:00:00"
+                },
+                "2018-10-30": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-10-30 00:00:00",
+                    "end_date": "2018-10-30 00:00:00"
+                },
+                "2018-10-31": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-10-31 00:00:00",
+                    "end_date": "2018-10-31 00:00:00"
+                },
+                "2018-11-01": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-11-01 00:00:00",
+                    "end_date": "2018-11-01 00:00:00"
+                },
+                "2018-11-02": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-11-02 00:00:00",
+                    "end_date": "2018-11-02 00:00:00"
+                },
+                "2018-11-03": {
+                    "id": "XLLDec3B",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-11-03 00:00:00",
+                    "end_date": "2018-11-03 00:00:00"
+                },
+                "2018-08-18": {
+                    "id": "Qy9Qt3pd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "apAMZZhW",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "rKDAwafL",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "More than 30 minute wait",
+            "evid_status_text": "Less than 1 hour",
+            "color": "red",
+            "evl_status": 3,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": "SOE Office",
+            "Address": "201 N Oklahoma ST",
+            "City": "Bonifay",
+            "State": "FL",
+            "Zip": "32425",
+            "Latitude": 30.79308,
+            "Longitude": -85.67842
+        }
+    ],
+    "registered_by": "2020-09-08",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "CT"
+}

@@ -1,0 +1,1611 @@
+{
+    "county": "brevard",
+    "county_center_lat": 28.205131857142856,
+    "county_center_long": -80.69646,
+    "county_id": "BRE",
+    "display_schedule": true,
+    "display_wait_times": true,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "E6ukFVek",
+            "webservices_id": "DRS",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:03",
+            "position": 4,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "odZmxwLu",
+                    "s3_key": "E6ukFVek/f89a804d-527d-4dd2-b63d-d7f8c5d3932b-Pollplace229.JPG",
+                    "alt_text": "David R. Schechter Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/E6ukFVek/f89a804d-527d-4dd2-b63d-d7f8c5d3932b-Pollplace229.JPG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=cnmUyGJS3awOksBp9%2BxoPM%2B3LmY%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "93B69BDD",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "V8J5iG8T",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "KaGvdigz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "93B69BDD",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "93B69BDD",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "93B69BDD",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "93B69BDD",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "93B69BDD",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "V8J5iG8T",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "V8J5iG8T",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "KaGvdigz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "DRS",
+            "Type": "EarlyVoting",
+            "Description": "David R. Schechter Community Center",
+            "Address": "1089 South Patrick Dr",
+            "City": "Satellite Beach",
+            "State": "FL",
+            "Zip": "32937",
+            "Latitude": 28.18386,
+            "Longitude": -80.606125
+        },
+        {
+            "uid": "yXd44MJo",
+            "webservices_id": "JOE",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-08 12:01:27",
+            "position": 2,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "kqZVqBCp",
+                    "s3_key": "yXd44MJo/b950dd96-5d31-4cf8-85cd-5f603c81822d-IMG_6834.JpG",
+                    "alt_text": "Dr Joe Lee Smith Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/yXd44MJo/b950dd96-5d31-4cf8-85cd-5f603c81822d-IMG_6834.JpG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=LI9uSLWtUPfp1%2F4jrj1KLg77LZs%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "YZRzjBXi",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "Tk8tq7Wt",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "BgyqVWQx",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "YZRzjBXi",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "YZRzjBXi",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "YZRzjBXi",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "YZRzjBXi",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "YZRzjBXi",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "Tk8tq7Wt",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "Tk8tq7Wt",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "BgyqVWQx",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "JOE",
+            "Type": "EarlyVoting",
+            "Description": "Dr. Joe Lee Smith Community Center",
+            "Address": "415 Stone St",
+            "City": "Cocoa",
+            "State": "FL",
+            "Zip": "32922",
+            "Latitude": 28.354255,
+            "Longitude": -80.737147
+        },
+        {
+            "uid": "6eKfHsPm",
+            "webservices_id": "KIW",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 11:55:31",
+            "position": 1,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "W7NbajMb",
+                    "s3_key": "6eKfHsPm/3ba706fb-71e5-49e1-8a64-b5f52d19df9f-Kiwanis-Island-Park-Community-Center.jpg",
+                    "alt_text": "Kiwanis Island Park Gymnasium",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/6eKfHsPm/3ba706fb-71e5-49e1-8a64-b5f52d19df9f-Kiwanis-Island-Park-Community-Center.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=KPYofpc2Pu3ON8929c7jCuQtymU%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "oMsvPfzX",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "CHUQgnhj",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "aYGBs63N",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "oMsvPfzX",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "oMsvPfzX",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "CHUQgnhj",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "CHUQgnhj",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "CHUQgnhj",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "CHUQgnhj",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "CHUQgnhj",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "aYGBs63N",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "KIW",
+            "Type": "EarlyVoting",
+            "Description": "Kiwanis Island Park Gymnasium",
+            "Address": "950 Kiwanis Island Park RD",
+            "City": "Merritt Island",
+            "State": "FL",
+            "Zip": "32952",
+            "Latitude": 28.362082,
+            "Longitude": -80.676155
+        },
+        {
+            "uid": "iETaMC2D",
+            "webservices_id": "MAX",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2018-10-28 12:04:48",
+            "position": 6,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "stnNXnwF",
+                    "s3_key": "iETaMC2D/42396588-c55d-4423-9ca6-ef310973694a-Max K Rodes Comm Center..jpg",
+                    "alt_text": "Max K. Rodes Park Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/iETaMC2D/42396588-c55d-4423-9ca6-ef310973694a-Max%20K%20Rodes%20Comm%20Center..jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=FoL9H2Scr3bS9itqOnU7aeNCp2A%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "EhFNa9zf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "PkjKzr4b",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "yRXpTe7z",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "EhFNa9zf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "EhFNa9zf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "EhFNa9zf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "EhFNa9zf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "EhFNa9zf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "PkjKzr4b",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "PkjKzr4b",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "yRXpTe7z",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "MAX",
+            "Type": "EarlyVoting",
+            "Description": "Max K. Rodes Park Community Center",
+            "Address": "3410 Flanagan Ave",
+            "City": "West Melbourne",
+            "State": "FL",
+            "Zip": "32904",
+            "Latitude": 28.06116,
+            "Longitude": -80.684032
+        },
+        {
+            "uid": "RqWTjRki",
+            "webservices_id": "OTCM",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:25",
+            "position": 10,
+            "hidden": true,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "XpPge8ox",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "DkmPMt9a",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "p3wtQ7H9",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "XpPge8ox",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "XpPge8ox",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "XpPge8ox",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "XpPge8ox",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "XpPge8ox",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "DkmPMt9a",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "DkmPMt9a",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "p3wtQ7H9",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "OTCM",
+            "Type": "EarlyVoting",
+            "Description": "Z_OTC_Melbourne",
+            "Address": "1515 Sarno RD",
+            "City": "Melbourne",
+            "State": "FL",
+            "Zip": "32935",
+            "Latitude": 28.121626,
+            "Longitude": -80.64502
+        },
+        {
+            "uid": "JHWZAsWr",
+            "webservices_id": "OTCP",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:29",
+            "position": 11,
+            "hidden": true,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "Yxu5Yn6V",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "9N2wcC7G",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "VrddFnUC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "Yxu5Yn6V",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "Yxu5Yn6V",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "9N2wcC7G",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "VrddFnUC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "VrddFnUC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "VrddFnUC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "VrddFnUC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "VrddFnUC",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "OTCP",
+            "Type": "EarlyVoting",
+            "Description": "Z_OTC_Palm Bay",
+            "Address": "450 Cogan DR",
+            "City": "Palm Bay",
+            "State": "FL",
+            "Zip": "32909",
+            "Latitude": 27.944185,
+            "Longitude": -80.661625
+        },
+        {
+            "uid": "QBK8XfBi",
+            "webservices_id": "OTCT",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:34",
+            "position": 12,
+            "hidden": true,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "viymR7Ce",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "Rr8V5ruJ",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "EzF8TVAK",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "viymR7Ce",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "viymR7Ce",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "viymR7Ce",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "viymR7Ce",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "viymR7Ce",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "Rr8V5ruJ",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "Rr8V5ruJ",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "EzF8TVAK",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "OTCT",
+            "Type": "EarlyVoting",
+            "Description": "Z_OTC_Titusville",
+            "Address": "400 South ST",
+            "City": "Titusville",
+            "State": "FL",
+            "Zip": "32780",
+            "Latitude": 28.608002,
+            "Longitude": -80.80933
+        },
+        {
+            "uid": "xHdtdJfq",
+            "webservices_id": "OTCV",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:40",
+            "position": 13,
+            "hidden": true,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "nY4MQuJf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "hhA5KhfK",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "ZuoAzjdY",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "nY4MQuJf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "nY4MQuJf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "hhA5KhfK",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "ZuoAzjdY",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "ZuoAzjdY",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "ZuoAzjdY",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "ZuoAzjdY",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "ZuoAzjdY",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "OTCV",
+            "Type": "EarlyVoting",
+            "Description": "Z_OTC_Viera",
+            "Address": "2175 Judge Fran Jamieson Way",
+            "City": "Viera",
+            "State": "FL",
+            "Zip": "32940",
+            "Latitude": 28.247797,
+            "Longitude": -80.729
+        },
+        {
+            "uid": "wd3GMptB",
+            "webservices_id": "PB",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:21",
+            "position": 9,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "ChRAFEwo",
+                    "s3_key": "wd3GMptB/3ccb0635-05ab-482d-9b6d-756ce4af5891-Palm Bay.png",
+                    "alt_text": "Palm Bay Elections Office",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/wd3GMptB/3ccb0635-05ab-482d-9b6d-756ce4af5891-Palm%20Bay.png?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=VVBpj6YQOExDC9UqwXtuOSq1Kfc%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "idgBAky2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "DhA8Dtzg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "ZLvupHSE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "idgBAky2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "idgBAky2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "DhA8Dtzg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "ZLvupHSE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "ZLvupHSE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "ZLvupHSE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "ZLvupHSE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "ZLvupHSE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "PB",
+            "Type": "EarlyVoting",
+            "Description": "Palm Bay Elections Office",
+            "Address": "450 Cogan Dr SE",
+            "City": "Palm Bay",
+            "State": "FL",
+            "Zip": "32909",
+            "Latitude": 27.94352,
+            "Longitude": -80.658021
+        },
+        {
+            "uid": "HTFrqusp",
+            "webservices_id": "PBC",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2018-10-26 21:57:28",
+            "position": 7,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "XAUSuVw3",
+                    "s3_key": "HTFrqusp/1a3dcac5-b490-4f67-98f1-df0ed5ff8270-Tony Rosa.jpeg",
+                    "alt_text": "Tony Rosa Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/HTFrqusp/1a3dcac5-b490-4f67-98f1-df0ed5ff8270-Tony%20Rosa.jpeg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=7gvFbQXTaUy5aIePjWbz0BKIzns%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "LNZwNAXk",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "znJYHbtb",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "XEcGEk2w",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "LNZwNAXk",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "LNZwNAXk",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "znJYHbtb",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "XEcGEk2w",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "XEcGEk2w",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "XEcGEk2w",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "XEcGEk2w",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "XEcGEk2w",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "PBC",
+            "Type": "EarlyVoting",
+            "Description": "Tony Rosa Palm Bay Community Center",
+            "Address": "1502 Port Malabar Blvd NE",
+            "City": "Palm Bay",
+            "State": "FL",
+            "Zip": "32905",
+            "Latitude": 28.018054,
+            "Longitude": -80.604821
+        },
+        {
+            "uid": "T3qs9Nob",
+            "webservices_id": "TVL",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 10:46:18",
+            "position": 0,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "L92v7M4c",
+                    "s3_key": "T3qs9Nob/f17014ca-8f4f-4b62-8688-836866ceded9-titusville office.jpg",
+                    "alt_text": "Titusville Elections Office",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/T3qs9Nob/f17014ca-8f4f-4b62-8688-836866ceded9-titusville%20office.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=8pVWyEQEd4RBamU%2BnM6TzB7OWns%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "XwKkDuJp",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "2gy9kjt3",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "fup6Eqou",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "XwKkDuJp",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "XwKkDuJp",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "XwKkDuJp",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "XwKkDuJp",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "XwKkDuJp",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "2gy9kjt3",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "2gy9kjt3",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "fup6Eqou",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "TVL",
+            "Type": "EarlyVoting",
+            "Description": "Titusville Elections Office",
+            "Address": "400 South St",
+            "City": "Titusville",
+            "State": "FL",
+            "Zip": "32780",
+            "Latitude": 28.608612,
+            "Longitude": -80.809702
+        },
+        {
+            "uid": "4HqMmnYS",
+            "webservices_id": "TWCC",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-02 13:17:15",
+            "position": 8,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "t2gEoxDy",
+                    "s3_key": "4HqMmnYS/a03ed2b8-4aaf-4a81-b0b4-800289be511c-Ted Whitlock.jpg",
+                    "alt_text": "Ted Whitlock Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/4HqMmnYS/a03ed2b8-4aaf-4a81-b0b4-800289be511c-Ted%20Whitlock.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=9MP84lhi9ByLSaVYXp5IFRbT8rY%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "9iMymzPP",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "8KjavkZc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "wcb6JjP7",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-10": {
+                    "id": "9iMymzPP",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "9iMymzPP",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "9iMymzPP",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "9iMymzPP",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "9iMymzPP",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "8KjavkZc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "8KjavkZc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "wcb6JjP7",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "TWCC",
+            "Type": "EarlyVoting",
+            "Description": "Ted Whitlock Community Center",
+            "Address": "370 Championship Cir NW",
+            "City": "Palm Bay",
+            "State": "FL",
+            "Zip": "32907",
+            "Latitude": 28.009223,
+            "Longitude": -80.731616
+        },
+        {
+            "uid": "wGpP3gNH",
+            "webservices_id": "VRC",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 11:55:43",
+            "position": 3,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "Dv4AnPiK",
+                    "s3_key": "wGpP3gNH/716792ab-291b-4b03-9073-cfe925a2aaef-viera_regional_community_center-580-1.jpg",
+                    "alt_text": "Viera Regional Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/wGpP3gNH/716792ab-291b-4b03-9073-cfe925a2aaef-viera_regional_community_center-580-1.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=4Xf0sdnq3bXjN5mgA12C13pakzk%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "ebEvhNxz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "iEDcSebb",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "Z22k24pE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "ebEvhNxz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "ebEvhNxz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "iEDcSebb",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "Z22k24pE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "Z22k24pE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "Z22k24pE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "Z22k24pE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "Z22k24pE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "VRC",
+            "Type": "EarlyVoting",
+            "Description": "Viera Regional Community Center",
+            "Address": "2300 Judge Fran Jamieson Way",
+            "City": "Viera",
+            "State": "FL",
+            "Zip": "32940",
+            "Latitude": 28.247865,
+            "Longitude": -80.729074
+        },
+        {
+            "uid": "ke6BAFHc",
+            "webservices_id": "WCK",
+            "county_id": "BRE",
+            "db_name": "vr6",
+            "status_updated_at": "2018-10-27 11:48:01",
+            "position": 5,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "Kkm6Ybym",
+                    "s3_key": "ke6BAFHc/b1597ef4-7080-4447-8363-4d6f0e62eb31-Wickham Park Comm Center.jpg",
+                    "alt_text": "Wickham Park Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/ke6BAFHc/b1597ef4-7080-4447-8363-4d6f0e62eb31-Wickham%20Park%20Comm%20Center.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=ug1yF8XM0oIIUloKvovW%2FewO23k%3D&Expires=1599801593"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "kk6sH5ud",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "swhLGeNx",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "bpReJrqf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "kk6sH5ud",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "kk6sH5ud",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "swhLGeNx",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "bpReJrqf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "bpReJrqf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "bpReJrqf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "bpReJrqf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "bpReJrqf",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "WCK",
+            "Type": "EarlyVoting",
+            "Description": "Wickham Park Community Center",
+            "Address": "2815 Leisure Way",
+            "City": "Melbourne",
+            "State": "FL",
+            "Zip": "32935",
+            "Latitude": 28.161605,
+            "Longitude": -80.668772
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

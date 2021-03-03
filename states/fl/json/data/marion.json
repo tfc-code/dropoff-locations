@@ -1,0 +1,926 @@
+{
+    "county": "marion",
+    "county_center_lat": 29.12022388888889,
+    "county_center_long": -82.13758811111113,
+    "county_id": "MRN",
+    "display_schedule": true,
+    "display_wait_times": false,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "jVqp4Epn",
+            "webservices_id": "1",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 5,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "nCrJmioA",
+                    "s3_key": "jVqp4Epn/1ef1fd56-2519-46e7-83fe-6273df3ec40b-31999363-d1fa-459f-940d-c4a4e8931c0b-Outside.jpg",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/jVqp4Epn/1ef1fd56-2519-46e7-83fe-6273df3ec40b-31999363-d1fa-459f-940d-c4a4e8931c0b-Outside.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=3NMaGTxDVsapu6twPcuATHD52Xw%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "faDh9WtN",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": "Freedom Public Library",
+            "Address": "5870 SW 95th St",
+            "City": "Ocala",
+            "State": "FL",
+            "Zip": "34476",
+            "Latitude": 29.084226,
+            "Longitude": -82.216915
+        },
+        {
+            "uid": "KDsyA3XQ",
+            "webservices_id": "2",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 3,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "QCFxHEwg",
+                    "s3_key": "KDsyA3XQ/1e6f073d-137e-4cda-85ae-13d24ee02ae1-dunnellon.png",
+                    "alt_text": "Dunnellon Public Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/KDsyA3XQ/1e6f073d-137e-4cda-85ae-13d24ee02ae1-dunnellon.png?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=CN2zpYrO3BGOc3d%2FooNnRYJt%2FQ0%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "zqswL7zx",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "2",
+            "Type": "EarlyVoting",
+            "Description": "Dunnellon Public Library",
+            "Address": "20351 Robinson RD",
+            "City": "Dunnellon",
+            "State": "FL",
+            "Zip": "34431",
+            "Latitude": 29.059683,
+            "Longitude": -82.457579
+        },
+        {
+            "uid": "SeHLZnVt",
+            "webservices_id": "3",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 7,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "WTd9Nwnc",
+                    "s3_key": "SeHLZnVt/bf9239ab-586c-436c-95fd-eeec407163df-communitycenter.jpg",
+                    "alt_text": "Reddick Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/SeHLZnVt/bf9239ab-586c-436c-95fd-eeec407163df-communitycenter.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=dZM3zqUboefUmMGORDK4pSAKn7k%3D&Expires=1599801620"
+                },
+                {
+                    "uid": "AoVJDGNW",
+                    "s3_key": "SeHLZnVt/57bde25f-fb6d-4b5e-b63f-1591d8e7e809-Sign.jpg",
+                    "alt_text": "Reddick Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/SeHLZnVt/57bde25f-fb6d-4b5e-b63f-1591d8e7e809-Sign.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=9hr%2Bcg7uG%2FVg3izJO%2BtZ7FahPE8%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "DRrRDSYw",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "3",
+            "Type": "EarlyVoting",
+            "Description": "Reddick Community Center",
+            "Address": "4345 NW 152nd ST",
+            "City": "Reddick",
+            "State": "FL",
+            "Zip": "32686",
+            "Latitude": 29.370018,
+            "Longitude": -82.197107
+        },
+        {
+            "uid": "A5xhfzVt",
+            "webservices_id": "4",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 4,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "zL8wNqKE",
+                    "s3_key": "A5xhfzVt/d3b5ce1e-4354-49ca-a35b-7a0459d1c7ec-ee54f540-094f-49f6-916f-b238ea1e0378-ShowImage.png",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/A5xhfzVt/d3b5ce1e-4354-49ca-a35b-7a0459d1c7ec-ee54f540-094f-49f6-916f-b238ea1e0378-ShowImage.png?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=PgdW3Mx3HiljtZv7orAivjLef28%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "guZXRxC9",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "4",
+            "Type": "EarlyVoting",
+            "Description": "Forest Public Library",
+            "Address": "905 S HWY 314A",
+            "City": "Ocklawaha",
+            "State": "FL",
+            "Zip": "32179",
+            "Latitude": 29.177964,
+            "Longitude": -81.891219
+        },
+        {
+            "uid": "CfKqqG7m",
+            "webservices_id": "5",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 1,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "rxSTu4cm",
+                    "s3_key": "CfKqqG7m/1db32baf-01d9-4b2e-970b-9d4fa2b961b3-a6912299-a48b-4594-9fc0-357bc7cbad97-belleview.png",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/CfKqqG7m/1db32baf-01d9-4b2e-970b-9d4fa2b961b3-a6912299-a48b-4594-9fc0-357bc7cbad97-belleview.png?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=2HBC97aZoak6IUvY2FD2jFvA7JY%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "ZdDDoAUs",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "5",
+            "Type": "EarlyVoting",
+            "Description": "Belleview Public Library",
+            "Address": "13145 SE HWY 484",
+            "City": "Belleview",
+            "State": "FL",
+            "Zip": "34420",
+            "Latitude": 29.032266,
+            "Longitude": -82.062178
+        },
+        {
+            "uid": "oYQWFtC2",
+            "webservices_id": "6",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 0,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "ajDH4WjS",
+                    "s3_key": "oYQWFtC2/b22b6267-4259-43fe-814f-56119094c93c-IMG_2906.JPG",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/oYQWFtC2/b22b6267-4259-43fe-814f-56119094c93c-IMG_2906.JPG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=oDmXqYpoXfrTsz7znKwkqxDh2fo%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "xLYxcoHB",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "6",
+            "Type": "EarlyVoting",
+            "Description": "Marion County Election Center",
+            "Address": "981 NE 16th ST",
+            "City": "Ocala",
+            "State": "FL",
+            "Zip": "34470",
+            "Latitude": 29.203357,
+            "Longitude": -82.126607
+        },
+        {
+            "uid": "LDXrmknM",
+            "webservices_id": "7",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 8,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "w2k7TrAv",
+                    "s3_key": "LDXrmknM/813fd54e-d6c3-4216-b227-e980c2721d41-SSS.JPG",
+                    "alt_text": "Silver Springs Shores Community Ctr.",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/LDXrmknM/813fd54e-d6c3-4216-b227-e980c2721d41-SSS.JPG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=zc4kHuRSuHng0BMXuqZpocKaIvQ%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "GsuA6FHA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "7",
+            "Type": "EarlyVoting",
+            "Description": "Silver Springs Shores Community Ctr.",
+            "Address": "590 Silver Rd",
+            "City": "Ocala",
+            "State": "FL",
+            "Zip": "34472",
+            "Latitude": 29.106455,
+            "Longitude": -82.004401
+        },
+        {
+            "uid": "LVXoHYYu",
+            "webservices_id": "8",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": 6,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "6QmVoJLu",
+                    "s3_key": "LVXoHYYu/e06cf0e6-5e51-40af-8087-3ebe1e2ea2a1-mulberry.jpg",
+                    "alt_text": "Mulberry Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/LVXoHYYu/e06cf0e6-5e51-40af-8087-3ebe1e2ea2a1-mulberry.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=sjLhtvlKIzGwgyggWnNdIXE8BbE%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "TJXaYYPf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "8",
+            "Type": "EarlyVoting",
+            "Description": "Mulberry Center (Liberty Rm)",
+            "Address": "8445 SE 165th Mulberry Ln",
+            "City": "The Villages",
+            "State": "FL",
+            "Zip": "32162",
+            "Latitude": 28.98133,
+            "Longitude": -82.013158
+        },
+        {
+            "uid": "kC2craWm",
+            "webservices_id": "9",
+            "county_id": "MRN",
+            "db_name": "vr6",
+            "status_updated_at": "2018-02-23 20:57:48",
+            "position": 2,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "eeGRNj99",
+                    "s3_key": "kC2craWm/f72d973a-3aa9-42a2-a0c8-dfdf954ce61a-MCSO+District+(107) (1).jfif",
+                    "alt_text": "Deputy Brian Litz Building",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/kC2craWm/f72d973a-3aa9-42a2-a0c8-dfdf954ce61a-MCSO%2BDistrict%2B%28107%29%20%281%29.jfif?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=lxsOKQ9dJOaQ2qV7S7FtVDwznqk%3D&Expires=1599801620"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "cQx66rRH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "9",
+            "Type": "EarlyVoting",
+            "Description": "Deputy Brian Litz Building",
+            "Address": "9048 SW HWY 200",
+            "City": "Ocala",
+            "State": "FL",
+            "Zip": "34481",
+            "Latitude": 29.066716,
+            "Longitude": -82.269129
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

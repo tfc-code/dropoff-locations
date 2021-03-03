@@ -1,0 +1,11 @@
+.next
+out/
+
+__mocks__/types.ts
+
+node_modules/
+coverage/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

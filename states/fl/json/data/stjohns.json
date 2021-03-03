@@ -1,0 +1,557 @@
+{
+    "county": "stjohns",
+    "county_center_lat": 29.9578645,
+    "county_center_long": -81.426693,
+    "county_id": "STJ",
+    "display_schedule": false,
+    "display_wait_times": false,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "gfAUujHT",
+            "webservices_id": "EV-JC",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 13:06:53",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "srGBGzmG",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-JC",
+            "Type": "EarlyVoting",
+            "Description": "Julington Creek Annex",
+            "Address": "725 Flora Branch Blvd",
+            "City": "St. Johns",
+            "State": "FL",
+            "Zip": "32259",
+            "Latitude": 30.117108,
+            "Longitude": -81.590773
+        },
+        {
+            "uid": "eDfwMvkK",
+            "webservices_id": "EV-OEF",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-OEF",
+            "Type": "EarlyVoting",
+            "Description": "Old Earth Fare Store",
+            "Address": "120 Shops Blvd",
+            "City": "St. Johns",
+            "State": "FL",
+            "Zip": "32259",
+            "Latitude": 30.061512,
+            "Longitude": -81.532925
+        },
+        {
+            "uid": "5DNMZQtS",
+            "webservices_id": "EV-PV",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 13:06:58",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "ZNHsqzkk",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-PV",
+            "Type": "EarlyVoting",
+            "Description": "Ponte Vedra Branch Library",
+            "Address": "101 Library Blvd",
+            "City": "Ponte Vedra Beach",
+            "State": "FL",
+            "Zip": "32082",
+            "Latitude": 30.224441,
+            "Longitude": -81.38519
+        },
+        {
+            "uid": "5eNczQnH",
+            "webservices_id": "EV-SAB",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 13:07:17",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "smCbWA8X",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-SAB",
+            "Type": "EarlyVoting",
+            "Description": "St Augustine Beach City Hall",
+            "Address": "2200 A1A South",
+            "City": "St Augustine",
+            "State": "FL",
+            "Zip": "32080",
+            "Latitude": 29.855086,
+            "Longitude": -81.27939
+        },
+        {
+            "uid": "vddGW4aR",
+            "webservices_id": "EV-SBL",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 13:07:11",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "mG32jxB7",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-SBL",
+            "Type": "EarlyVoting",
+            "Description": "Southeast Branch Library",
+            "Address": "6670 US 1 South",
+            "City": "St. Augustine",
+            "State": "FL",
+            "Zip": "32086",
+            "Latitude": 29.759155,
+            "Longitude": -81.311445
+        },
+        {
+            "uid": "FrBEV8AY",
+            "webservices_id": "EV-SOE",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 13:08:06",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-25 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2018-08-18": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-18 00:00:00",
+                    "end_date": "2018-08-18 00:00:00"
+                },
+                "2018-08-19": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-19 00:00:00",
+                    "end_date": "2018-08-19 00:00:00"
+                },
+                "2018-08-20": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-20 00:00:00",
+                    "end_date": "2018-08-20 00:00:00"
+                },
+                "2018-08-21": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-21 00:00:00",
+                    "end_date": "2018-08-21 00:00:00"
+                },
+                "2018-08-22": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-22 00:00:00",
+                    "end_date": "2018-08-22 00:00:00"
+                },
+                "2018-08-23": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-23 00:00:00",
+                    "end_date": "2018-08-23 00:00:00"
+                },
+                "2018-08-24": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-24 00:00:00",
+                    "end_date": "2018-08-24 00:00:00"
+                },
+                "2018-08-25": {
+                    "id": "eUZLMjYx",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2018-08-25 00:00:00",
+                    "end_date": "2018-08-25 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-SOE",
+            "Type": "EarlyVoting",
+            "Description": "Supervisor of Elections Office",
+            "Address": "4455 Avenue A #101",
+            "City": "St. Augustine",
+            "State": "FL",
+            "Zip": "32095",
+            "Latitude": 29.942105,
+            "Longitude": -81.337366
+        },
+        {
+            "uid": "LE3muXXr",
+            "webservices_id": "EV-TOH",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "EV-TOH",
+            "Type": "EarlyVoting",
+            "Description": "Hastings Branch Library",
+            "Address": "6195 South Main St",
+            "City": "Hastings",
+            "State": "FL",
+            "Zip": "32145",
+            "Latitude": 29.713545,
+            "Longitude": -81.50821
+        },
+        {
+            "uid": "37p4A9p8",
+            "webservices_id": "EV-WGV",
+            "county_id": "STJ",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "EV-WGV",
+            "Type": "EarlyVoting",
+            "Description": "St. Johns County Convention Center",
+            "Address": "500 S. Legacy Trl",
+            "City": "St. Augustine",
+            "State": "FL",
+            "Zip": "32092",
+            "Latitude": 29.989964,
+            "Longitude": -81.468245
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

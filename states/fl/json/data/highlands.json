@@ -1,0 +1,129 @@
+{
+    "county": "highlands",
+    "county_center_lat": 27.466632,
+    "county_center_long": -81.42746733333334,
+    "county_id": "HIG",
+    "display_schedule": false,
+    "display_wait_times": false,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "fPqMQa4D",
+            "webservices_id": "1",
+            "county_id": "HIG",
+            "db_name": "vr6",
+            "status_updated_at": "2020-02-04 18:41:20",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": "Sebring",
+            "Address": "4500 Kenilworth Blvd",
+            "City": "Sebring",
+            "State": "FL",
+            "Zip": "33870",
+            "Latitude": 27.486326,
+            "Longitude": -81.419483
+        },
+        {
+            "uid": "zmi6cxPy",
+            "webservices_id": "2",
+            "county_id": "HIG",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "3sLK4BsH",
+                    "s3_key": "zmi6cxPy/c923eea1-62ff-4053-9081-d2a655eaf794-Pollplace  2.jpg",
+                    "alt_text": "City Hall Council Chambers",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/zmi6cxPy/c923eea1-62ff-4053-9081-d2a655eaf794-Pollplace%20%202.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=M0jZiqcpj09Q7UT%2B%2BeIfn0H1L3g%3D&Expires=1599801609"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "mMNYDxyt",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-11-01 00:00:00",
+                    "end_date": "2019-11-02 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2019-11-01": {
+                    "id": "mMNYDxyt",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-11-01 00:00:00",
+                    "end_date": "2019-11-01 00:00:00"
+                },
+                "2019-11-02": {
+                    "id": "mMNYDxyt",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-11-02 00:00:00",
+                    "end_date": "2019-11-02 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "2",
+            "Type": "EarlyVoting",
+            "Description": "Avon Park",
+            "Address": "123 E Pine St",
+            "City": "Avon Park",
+            "State": "FL",
+            "Zip": "33825",
+            "Latitude": 27.59469,
+            "Longitude": -81.49955
+        },
+        {
+            "uid": "KagAoCem",
+            "webservices_id": "3",
+            "county_id": "HIG",
+            "db_name": "vr6",
+            "status_updated_at": "2020-02-04 18:41:18",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "3",
+            "Type": "EarlyVoting",
+            "Description": "Lake Placid",
+            "Address": "1069 US Hwy 27 North",
+            "City": "Lake Placid",
+            "State": "FL",
+            "Zip": "33852",
+            "Latitude": 27.31888,
+            "Longitude": -81.363369
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

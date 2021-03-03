@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noImplicitAny": true,
+    "jsx": "preserve",
+    "paths": {
+      "@/components": ["src/components/index"],
+      "@/contexts": ["src/contexts/index"],
+      "@/containers": ["src/containers/index"],
+      "@/i18n": ["src/i18n/index"],
+      "@/utils": ["src/utils/index"],
+      "@/api/*": ["../api/*"]
+    }
+  },
+  "include": ["next-env.d.ts", ".eslintrc.js", "./src/**/*", "./jest/**/*", "./__mocks__/**/*"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,4343 @@
+{
+    "county": "duval",
+    "county_center_lat": 30.313343055555556,
+    "county_center_long": -81.64795455555554,
+    "county_id": "DUV",
+    "display_schedule": true,
+    "display_wait_times": true,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "m4r9xsMK",
+            "webservices_id": "001",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:02:30",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "GfPHHP5n",
+                    "s3_key": "m4r9xsMK/6e6f8b1a-b33f-49f0-93c8-d5835c1f5674-ArgyleBranch.jpg",
+                    "alt_text": "Argyle Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/m4r9xsMK/6e6f8b1a-b33f-49f0-93c8-d5835c1f5674-ArgyleBranch.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=1RU9Qp122lTdciP%2BSOMN1rkGaso%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "J6BDSwqL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "001",
+            "Type": "EarlyVoting",
+            "Description": "Argyle Branch Library",
+            "Address": "7973 Old Middleburg Rd S",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32222",
+            "Latitude": 30.201198,
+            "Longitude": -81.821291
+        },
+        {
+            "uid": "zYsJAtms",
+            "webservices_id": "002",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:02:37",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "k5uyazuP",
+                    "s3_key": "zYsJAtms/9f242319-c942-410d-8181-6a060cf444d9-BeachesLibrary.jpg",
+                    "alt_text": "Beaches Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/zYsJAtms/9f242319-c942-410d-8181-6a060cf444d9-BeachesLibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=XAGXGDk%2BcHF8UBkGNptPWBiR%2BgI%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "MPWousTf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "KvHazKu4",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "002",
+            "Type": "EarlyVoting",
+            "Description": "Beaches Branch Library",
+            "Address": "600 3rd St",
+            "City": "Neptune Beach",
+            "State": "FL",
+            "Zip": "32266",
+            "Latitude": 30.319999,
+            "Longitude": -81.397575
+        },
+        {
+            "uid": "R2fwqMe7",
+            "webservices_id": "003",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:02:51",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "FSwYAyjD",
+                    "s3_key": "R2fwqMe7/12d79569-2f22-44e8-8a90-b793e5a0d124-BradhamBrooksLibrary.jpg",
+                    "alt_text": "Bradham & Brooks Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/R2fwqMe7/12d79569-2f22-44e8-8a90-b793e5a0d124-BradhamBrooksLibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=GrTh9RApP0UyCQZ2SgPW%2Byq%2F33M%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "jJyveBTb",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "UcYVPeFA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "003",
+            "Type": "EarlyVoting",
+            "Description": "Bradham & Brooks Branch Library",
+            "Address": "1755 Edgewood Ave W",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32208",
+            "Latitude": 30.38735,
+            "Longitude": -81.686316
+        },
+        {
+            "uid": "CDeoeusQ",
+            "webservices_id": "004",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:03:38",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "qGufHz8B",
+                    "s3_key": "CDeoeusQ/35f4da4c-9354-453a-a744-c5e6317e2a4a-Gateway.jpg",
+                    "alt_text": "Gateway Town Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/CDeoeusQ/35f4da4c-9354-453a-a744-c5e6317e2a4a-Gateway.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=VfsrGix8sVH%2FXixYAt%2BocbVOKMM%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "uFsHWaNg",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "5BdrYGsn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "004",
+            "Type": "EarlyVoting",
+            "Description": "Gateway Town Center",
+            "Address": "910 W 44th St",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32208",
+            "Latitude": 30.369261,
+            "Longitude": -81.667741
+        },
+        {
+            "uid": "euXKA4u6",
+            "webservices_id": "005",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:03:43",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "GNFYsPSS",
+                    "s3_key": "euXKA4u6/ca09aa98-856f-4d61-aed3-e9853ac0fa62-HighlandsLibrary.JPG",
+                    "alt_text": "Highlands Regional Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/euXKA4u6/ca09aa98-856f-4d61-aed3-e9853ac0fa62-HighlandsLibrary.JPG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=azsktRG8%2FtljY%2FSg0p6VWEroe30%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "mUgXzhop",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "xAtnLwDz",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "005",
+            "Type": "EarlyVoting",
+            "Description": "Highlands Regional Library",
+            "Address": "1826 Dunn Ave",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32218",
+            "Latitude": 30.434489,
+            "Longitude": -81.675968
+        },
+        {
+            "uid": "FTbp73JN",
+            "webservices_id": "006",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:04:15",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "F8ocDN6M",
+                    "s3_key": "FTbp73JN/c098c7cc-9bef-41b9-a926-8be8ddf5b896-mandarinregionallibrary.jpg",
+                    "alt_text": "Mandarin Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/FTbp73JN/c098c7cc-9bef-41b9-a926-8be8ddf5b896-mandarinregionallibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=ycMxMfSoYMBS%2FSRz0KNj%2Fk8TdRg%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "aQ2ttsSn",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "evRnj9kJ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "006",
+            "Type": "EarlyVoting",
+            "Description": "Mandarin Branch Library",
+            "Address": "3330 Kori Rd",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32257",
+            "Latitude": 30.205248,
+            "Longitude": -81.620886
+        },
+        {
+            "uid": "PNUQvbdQ",
+            "webservices_id": "007",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:04:25",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "NhKaBZHZ",
+                    "s3_key": "PNUQvbdQ/b98f6b62-57b6-466e-98f6-1f411e7ef308-MurrayHillUMC.jpg",
+                    "alt_text": "Murray Hill Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/PNUQvbdQ/b98f6b62-57b6-466e-98f6-1f411e7ef308-MurrayHillUMC.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=Fbs2ur%2F63yevth%2B1puf2sQonBY8%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "JmVuiSvd",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "A8F6RmdL",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "007",
+            "Type": "EarlyVoting",
+            "Description": "Murray Hill United Methodist Church",
+            "Address": "4101 College St",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32205",
+            "Latitude": 30.315007,
+            "Longitude": -81.721494
+        },
+        {
+            "uid": "nAnCFjLo",
+            "webservices_id": "008",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:04:41",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "yH8LFndh",
+                    "s3_key": "nAnCFjLo/4bb11859-ef7a-4b30-9a9b-413146d15547-pablocreekreglibrary.jpg",
+                    "alt_text": "Pablo Creek Regional Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/nAnCFjLo/4bb11859-ef7a-4b30-9a9b-413146d15547-pablocreekreglibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=mTVMs%2Fy9Akx6o4Iw7j5bs51DBXc%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "wqHFTefA",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "pdYjjEpH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "008",
+            "Type": "EarlyVoting",
+            "Description": "Pablo Creek Regional Library",
+            "Address": "13295 Beach Blvd",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32246",
+            "Latitude": 30.287477,
+            "Longitude": -81.476234
+        },
+        {
+            "uid": "A7roDqLy",
+            "webservices_id": "009",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:04:53",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "XfTQP5jA",
+                    "s3_key": "A7roDqLy/c226e303-d826-48e0-ab01-fe319c5d3c79-RegencySquareRegionalLibrary.jpg",
+                    "alt_text": "Regency Square Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/A7roDqLy/c226e303-d826-48e0-ab01-fe319c5d3c79-RegencySquareRegionalLibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=sfjlyHN1XBaTOO15QDZOn17twBk%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "NYFvgh3t",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "4LSS8bER",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "009",
+            "Type": "EarlyVoting",
+            "Description": "Regency Square Branch Library",
+            "Address": "9900 Regency Square Blvd",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32225",
+            "Latitude": 30.326288,
+            "Longitude": -81.544365
+        },
+        {
+            "uid": "8sRDTRkD",
+            "webservices_id": "010",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:05:17",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "QF4PcSGE",
+                    "s3_key": "8sRDTRkD/57563f6f-7679-4a1e-b704-f534fc94af77-southeastregionallibrary.jpg",
+                    "alt_text": "Southeast Regional Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/8sRDTRkD/57563f6f-7679-4a1e-b704-f534fc94af77-southeastregionallibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=2qZddyWFzBgB2F6L9hlOlJsyI74%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "dBddj5TE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "JV88VM6d",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "010",
+            "Type": "EarlyVoting",
+            "Description": "Southeast Regional Library",
+            "Address": "10599 Deerwood Park Blvd",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32256",
+            "Latitude": 30.247662,
+            "Longitude": -81.539
+        },
+        {
+            "uid": "TETxqDUa",
+            "webservices_id": "011",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:05:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "3B7aSXhL",
+                    "s3_key": "TETxqDUa/69c6e924-d75e-4fe8-aff2-70bf4ac568c6-southmandarinreglibrary.jpg",
+                    "alt_text": "South Mandarin Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/TETxqDUa/69c6e924-d75e-4fe8-aff2-70bf4ac568c6-southmandarinreglibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=rRxcUXzzDc%2B1CNJlTM%2BKATBQsrY%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "QDCAtdAH",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "W944maZR",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "011",
+            "Type": "EarlyVoting",
+            "Description": "South Mandarin Branch Library",
+            "Address": "12125 San Jose Blvd",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32223",
+            "Latitude": 30.149137,
+            "Longitude": -81.63261
+        },
+        {
+            "uid": "Y8kx46FU",
+            "webservices_id": "012",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:05:35",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "x5tUBBjG",
+                    "s3_key": "Y8kx46FU/e01ac184-ac9d-41e7-a88d-10526d52ff24-UniversityParkLibrary.gif",
+                    "alt_text": "University Park Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/Y8kx46FU/e01ac184-ac9d-41e7-a88d-10526d52ff24-UniversityParkLibrary.gif?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=EznL7hR5jjgVm%2FuZ%2B39rawsns%2Fk%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "x6XZ7DiG",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "PGn3RT2W",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "012",
+            "Type": "EarlyVoting",
+            "Description": "University Park Branch Library",
+            "Address": "3435 University Blvd N",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32277",
+            "Latitude": 30.360947,
+            "Longitude": -81.60581
+        },
+        {
+            "uid": "pyLNFnNj",
+            "webservices_id": "013",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:05:41",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "dinuWdbb",
+                    "s3_key": "pyLNFnNj/5b98df25-8d6a-4c92-bca0-926bb8c5c6e1-webbwesconnettreglibrary.jpg",
+                    "alt_text": "Webb Wesconnett Regional Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/pyLNFnNj/5b98df25-8d6a-4c92-bca0-926bb8c5c6e1-webbwesconnettreglibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=CJ6WhaO16hMy9AXx4KUxR6AfmKM%3D&Expires=1599801601"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "v5WCk4dq",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "VXxzbSVZ",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "013",
+            "Type": "EarlyVoting",
+            "Description": "Webb-Wesconnett Regional Library",
+            "Address": "6887 103rd St",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32210",
+            "Latitude": 30.248383,
+            "Longitude": -81.75705
+        },
+        {
+            "uid": "ANppDePH",
+            "webservices_id": "014",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:05:51",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "unt95hec",
+                    "s3_key": "ANppDePH/48bb86b0-b60f-4f9f-96b2-d2ac3c4ed055-westregionallibrary.jpg",
+                    "alt_text": "West Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/ANppDePH/48bb86b0-b60f-4f9f-96b2-d2ac3c4ed055-westregionallibrary.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=o70I0c8831wuoMOIp9JkcJ2lgOM%3D&Expires=1599801602"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "dBN6Ekze",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "BdaWE8QE",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "014",
+            "Type": "EarlyVoting",
+            "Description": "West Branch Library",
+            "Address": "1425 Chaffee Rd S",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32221",
+            "Latitude": 30.294706,
+            "Longitude": -81.848564
+        },
+        {
+            "uid": "ZpRkn2Bi",
+            "webservices_id": "015",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 13:08:36",
+            "position": 0,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "ExTB32Bu",
+                    "s3_key": "ZpRkn2Bi/d33a6c02-bd58-4f3c-8d39-99e12f27a61f-MainOffice2.jpg",
+                    "alt_text": "Main Office",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/ZpRkn2Bi/d33a6c02-bd58-4f3c-8d39-99e12f27a61f-MainOffice2.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=cHVLSMHcUsUFTlufJMkmTFU220Y%3D&Expires=1599801602"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "kJgQ6jRh",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-07 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "NoMb838w",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "iiSMWwwg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "BWpvhryf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "kJgQ6jRh",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "kJgQ6jRh",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "kJgQ6jRh",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "kJgQ6jRh",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "kJgQ6jRh",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "NoMb838w",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "NoMb838w",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "iiSMWwwg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "iiSMWwwg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "iiSMWwwg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "iiSMWwwg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "iiSMWwwg",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "BWpvhryf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "BWpvhryf",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "015",
+            "Type": "EarlyVoting",
+            "Description": "SOE Main Office",
+            "Address": "105 E Monroe St",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32202",
+            "Latitude": 30.328326,
+            "Longitude": -81.655489
+        },
+        {
+            "uid": "bXFX7hAv",
+            "webservices_id": "017",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:05:09",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "ib7PL5Bz",
+                    "s3_key": "bXFX7hAv/8aacc267-a423-45fa-b8d0-7ed9d2872cb0-San Marco Library.JPG",
+                    "alt_text": "San Marco Branch Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/bXFX7hAv/8aacc267-a423-45fa-b8d0-7ed9d2872cb0-San%20Marco%20Library.JPG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=cSTcnjP0A0MdTk%2B8P0XlAlo4sN8%3D&Expires=1599801602"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "KwFTDFwo",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "5qhxZssX",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "017",
+            "Type": "EarlyVoting",
+            "Description": "San Marco Branch Library",
+            "Address": "1513 LaSalle St",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32207",
+            "Latitude": 30.308907,
+            "Longitude": -81.65355
+        },
+        {
+            "uid": "M7Ck55px",
+            "webservices_id": "018",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:04:32",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "6cr9zeLN",
+                    "s3_key": "M7Ck55px/acac0fe7-fb8d-48d3-8588-9f1622b56200-oceanwaycommcenter.jpg",
+                    "alt_text": "Oceanway Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/M7Ck55px/acac0fe7-fb8d-48d3-8588-9f1622b56200-oceanwaycommcenter.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=U0oVad%2BGwz%2Fe9KcoSbxyZE3ImD0%3D&Expires=1599801602"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-03-02": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "EHhHmKeY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                },
+                "2020-08-03": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "j5BiGwLY",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "018",
+            "Type": "EarlyVoting",
+            "Description": "Oceanway Community Center",
+            "Address": "12215 Sago Ave W",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32218",
+            "Latitude": 30.459665,
+            "Longitude": -81.632318
+        },
+        {
+            "uid": "6gZMuez4",
+            "webservices_id": "019",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2019-03-04 15:04:07",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "HCXw4MCt",
+                    "s3_key": "6gZMuez4/85f6b926-c658-4451-b507-aa2ebe821bcf-legendscommunitycenter.jpg",
+                    "alt_text": "Legends JCommunity Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/6gZMuez4/85f6b926-c658-4451-b507-aa2ebe821bcf-legendscommunitycenter.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=6EfizrySCsESCUstUk9m28HpC2M%3D&Expires=1599801602"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-16 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-03": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-03 00:00:00",
+                    "end_date": "2020-08-03 00:00:00"
+                },
+                "2020-08-04": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-04 00:00:00",
+                    "end_date": "2020-08-04 00:00:00"
+                },
+                "2020-08-05": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-05 00:00:00",
+                    "end_date": "2020-08-05 00:00:00"
+                },
+                "2020-08-06": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-06 00:00:00",
+                    "end_date": "2020-08-06 00:00:00"
+                },
+                "2020-08-07": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                },
+                "2020-08-16": {
+                    "id": "DJZ6xjm3",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-16 00:00:00",
+                    "end_date": "2020-08-16 00:00:00"
+                },
+                "2020-03-02": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-02 00:00:00",
+                    "end_date": "2020-03-02 00:00:00"
+                },
+                "2020-03-03": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-03 00:00:00",
+                    "end_date": "2020-03-03 00:00:00"
+                },
+                "2020-03-04": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-04 00:00:00",
+                    "end_date": "2020-03-04 00:00:00"
+                },
+                "2020-03-05": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-05 00:00:00",
+                    "end_date": "2020-03-05 00:00:00"
+                },
+                "2020-03-06": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-06 00:00:00",
+                    "end_date": "2020-03-06 00:00:00"
+                },
+                "2020-03-07": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-07 00:00:00",
+                    "end_date": "2020-03-07 00:00:00"
+                },
+                "2020-03-08": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-08 00:00:00",
+                    "end_date": "2020-03-08 00:00:00"
+                },
+                "2020-03-09": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-09 00:00:00",
+                    "end_date": "2020-03-09 00:00:00"
+                },
+                "2020-03-10": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-10 00:00:00",
+                    "end_date": "2020-03-10 00:00:00"
+                },
+                "2020-03-11": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-11 00:00:00",
+                    "end_date": "2020-03-11 00:00:00"
+                },
+                "2020-03-12": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-12 00:00:00",
+                    "end_date": "2020-03-12 00:00:00"
+                },
+                "2020-03-13": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-13 00:00:00",
+                    "end_date": "2020-03-13 00:00:00"
+                },
+                "2020-03-14": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-14 00:00:00",
+                    "end_date": "2020-03-14 00:00:00"
+                },
+                "2020-03-15": {
+                    "id": "sSb39hdu",
+                    "open_time": "1980-01-01 10:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-03-15 00:00:00",
+                    "end_date": "2020-03-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "019",
+            "Type": "EarlyVoting",
+            "Description": "Legends Community Center",
+            "Address": "5130 Soutel Dr",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32208",
+            "Latitude": 30.396125,
+            "Longitude": -81.726921
+        },
+        {
+            "uid": "563BT7ec",
+            "webservices_id": "022",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "2020-09-09 19:59:35",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "022",
+            "Type": "EarlyVoting",
+            "Description": "Prime Osborn Convention Center",
+            "Address": "1000 Water St",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32204"
+        },
+        {
+            "uid": "G8LLh5TR",
+            "webservices_id": "023",
+            "county_id": "DUV",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "023",
+            "Type": "EarlyVoting",
+            "Description": "FSCJ - Deerwood Center",
+            "Address": "9911 Old Baymeadows Rd",
+            "City": "Jacksonville",
+            "State": "FL",
+            "Zip": "32256"
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

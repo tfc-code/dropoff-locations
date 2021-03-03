@@ -1,0 +1,150 @@
+name: UI
+on:
+  push:
+    branches: [production, master]
+  pull_request:
+    branches: "*"
+env:
+  NODE_VERSION: 12.9.0
+jobs:
+  install:
+    name: Install Dependencies
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Restore Cache
+        uses: actions/cache@master
+        with:
+          path: |
+            ./fe/node_modules
+            ./fe/**/node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('./fe/**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Install
+        working-directory: ./fe
+        run: yarn
+
+  lint:
+    name: Lint
+    needs: [install]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Restore Cache
+        id: cache-node-modules
+        uses: actions/cache@master
+        with:
+          path: |
+            ./fe/node_modules
+            ./fe/**/node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('./fe/**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Install
+        working-directory: ./fe
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: yarn
+      - name: Lint
+        working-directory: ./fe
+        run: yarn lint
+
+  test:
+    name: Unit Tests
+    needs: [install]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Restore Cache
+        id: cache-node-modules
+        uses: actions/cache@master
+        with:
+          path: |
+            ./fe/node_modules
+            ./fe/**/node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('./fe/**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Install
+        working-directory: ./fe
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: yarn
+      - name: Test
+        working-directory: ./fe
+        run: yarn test
+
+  cypress:
+    name: E2E Tests
+    needs: [install]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Restore Cache
+        id: cache-node-modules
+        uses: actions/cache@master
+        with:
+          path: |
+            ./fe/node_modules
+            ./fe/**/node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('./fe/**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Install
+        working-directory: ./fe
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: yarn
+      - name: Install Cypress
+        working-directory: ./fe
+        run: yarn cypress install
+      # - name: Test
+      #   working-directory: ./fe
+      #   run: yarn e2e
+      # disabled, as e2e tests, like the app itself, won't work without an API key
+
+  deploy-to-production:
+    name: Build and Deploy to S3
+    needs: [lint, test, cypress]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/production'
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Restore Cache
+        id: cache-node-modules
+        uses: actions/cache@master
+        with:
+          path: |
+            ./fe/node_modules
+            ./fe/**/node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('./fe/**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Install
+        working-directory: ./fe
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: yarn
+      - name: npm run export
+        working-directory: ./fe
+        run: npm run export
+      - name: sync to S3
+        uses: jakejarvis/s3-sync-action@master
+        env:
+          AWS_S3_BUCKET: ballotdropoff.techforcampaigns.io
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_FE_ACCESS_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_FE_SECRET_KEY }}
+          AWS_REGION: "us-east-1"
+          SOURCE_DIR: "fe/out"

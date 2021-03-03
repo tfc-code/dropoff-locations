@@ -1,0 +1,319 @@
+{
+    "county": "indianriver",
+    "county_center_lat": 27.709946333333335,
+    "county_center_long": -80.43539733333334,
+    "county_id": "IND",
+    "display_schedule": true,
+    "display_wait_times": true,
+    "election_date": "2020-09-15",
+    "election_name": "City of Sebastian Recall Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": 93,
+    "locations": [
+        {
+            "uid": "PjBaspc4",
+            "webservices_id": "1",
+            "county_id": "IND",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 12:54:54",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "HyHcccoZ",
+                    "s3_key": "PjBaspc4/89df0785-238e-451c-b0a0-2e0a3b844a73-SOE.JPG",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/PjBaspc4/89df0785-238e-451c-b0a0-2e0a3b844a73-SOE.JPG?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=nkL3m7naLOtAbC%2FrryIXB%2FodyX8%3D&Expires=1599801612"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "vWSY7WLm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": "Supervisor of Elections Office",
+            "Address": "4375 43rd Ave",
+            "City": "Vero Beach",
+            "State": "FL",
+            "Zip": "32967-1064",
+            "Latitude": 27.672874,
+            "Longitude": -80.429726
+        },
+        {
+            "uid": "ePCAYsC8",
+            "webservices_id": "2",
+            "county_id": "IND",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 12:54:50",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "MYFqydjw",
+                    "s3_key": "ePCAYsC8/9a3d9014-7e85-4644-b174-1254cbf71fbd-Sebastian City Hall.jpg",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/ePCAYsC8/9a3d9014-7e85-4644-b174-1254cbf71fbd-Sebastian%20City%20Hall.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=YAZQVx3ZwT14lZKY9lswAaJn6ps%3D&Expires=1599801612"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "3fLumAJd",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "2",
+            "Type": "EarlyVoting",
+            "Description": "Sebastian City Hall",
+            "Address": "1225 Main Street",
+            "City": "Sebastian",
+            "State": "FL",
+            "Zip": "32958",
+            "Latitude": 27.817177,
+            "Longitude": -80.475006
+        },
+        {
+            "uid": "UL9XdPXt",
+            "webservices_id": "3",
+            "county_id": "IND",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-18 13:21:37",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "PPtRgYED",
+                    "s3_key": "UL9XdPXt/6b6111c7-b034-48d0-bb96-78b22437826c-Main Library.jpg",
+                    "alt_text": "",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/UL9XdPXt/6b6111c7-b034-48d0-bb96-78b22437826c-Main%20Library.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=EXb6YW2mYgkz%2Fy87ZY35MGA3v3g%3D&Expires=1599801612"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "khWWMEJc",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 16:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "3",
+            "Type": "EarlyVoting",
+            "Description": "Indian River County Main Library",
+            "Address": "1600 21st St",
+            "City": "Vero Beach",
+            "State": "FL",
+            "Zip": "32960",
+            "Latitude": 27.639788,
+            "Longitude": -80.40146
+        }
+    ],
+    "registered_by": "2020-08-17",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

@@ -1,0 +1,477 @@
+{
+    "county": "madison",
+    "county_center_lat": 30.4607416,
+    "county_center_long": -83.4704676,
+    "county_id": "MAD",
+    "display_schedule": false,
+    "display_wait_times": false,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "rcNoRSW9",
+            "webservices_id": "1",
+            "county_id": "MAD",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-19 17:09:45",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "voiqgKEB",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "uMeXLYRL",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "PmU8CmVm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-14 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2019-06-08": {
+                    "id": "voiqgKEB",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-08 00:00:00"
+                },
+                "2019-06-09": {
+                    "id": "voiqgKEB",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-09 00:00:00",
+                    "end_date": "2019-06-09 00:00:00"
+                },
+                "2019-06-15": {
+                    "id": "uMeXLYRL",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00"
+                },
+                "2019-06-10": {
+                    "id": "PmU8CmVm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-10 00:00:00"
+                },
+                "2019-06-11": {
+                    "id": "PmU8CmVm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-11 00:00:00",
+                    "end_date": "2019-06-11 00:00:00"
+                },
+                "2019-06-12": {
+                    "id": "PmU8CmVm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-12 00:00:00",
+                    "end_date": "2019-06-12 00:00:00"
+                },
+                "2019-06-13": {
+                    "id": "PmU8CmVm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-13 00:00:00",
+                    "end_date": "2019-06-13 00:00:00"
+                },
+                "2019-06-14": {
+                    "id": "PmU8CmVm",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-14 00:00:00",
+                    "end_date": "2019-06-14 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": " Madison County Annex EV Site 10",
+            "Address": "229 SW Pinckney St.",
+            "City": "Madison",
+            "State": "FL",
+            "Zip": "32340",
+            "Latitude": 30.468596,
+            "Longitude": -83.413124
+        },
+        {
+            "uid": "UUV9sdop",
+            "webservices_id": "2",
+            "county_id": "MAD",
+            "db_name": "vr6",
+            "status_updated_at": "2018-10-26 21:16:45",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "5XzZEtrS",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "gCaBdtXB",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "PqiSMni6",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2019-06-08": {
+                    "id": "5XzZEtrS",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-08 00:00:00"
+                },
+                "2019-06-09": {
+                    "id": "5XzZEtrS",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-09 00:00:00",
+                    "end_date": "2019-06-09 00:00:00"
+                },
+                "2019-06-10": {
+                    "id": "gCaBdtXB",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-10 00:00:00"
+                },
+                "2019-06-11": {
+                    "id": "gCaBdtXB",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-11 00:00:00",
+                    "end_date": "2019-06-11 00:00:00"
+                },
+                "2019-06-12": {
+                    "id": "gCaBdtXB",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-12 00:00:00",
+                    "end_date": "2019-06-12 00:00:00"
+                },
+                "2019-06-13": {
+                    "id": "gCaBdtXB",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-13 00:00:00",
+                    "end_date": "2019-06-13 00:00:00"
+                },
+                "2019-06-14": {
+                    "id": "gCaBdtXB",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-14 00:00:00",
+                    "end_date": "2019-06-14 00:00:00"
+                },
+                "2019-06-15": {
+                    "id": "PqiSMni6",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "2",
+            "Type": "EarlyVoting",
+            "Description": "Greenville Senior Citizens Building EV Site 5",
+            "Address": "166 SW Onslow St",
+            "City": "Greenville",
+            "State": "FL",
+            "Zip": "32331",
+            "Latitude": 30.468954,
+            "Longitude": -83.631543
+        },
+        {
+            "uid": "BjkWHCL8",
+            "webservices_id": "3",
+            "county_id": "MAD",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-19 17:10:13",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "NZGi43gA",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "gamK7C4R",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "iCjYiZSe",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2019-06-08": {
+                    "id": "NZGi43gA",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-08 00:00:00"
+                },
+                "2019-06-09": {
+                    "id": "NZGi43gA",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-09 00:00:00",
+                    "end_date": "2019-06-09 00:00:00"
+                },
+                "2019-06-10": {
+                    "id": "gamK7C4R",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-10 00:00:00"
+                },
+                "2019-06-11": {
+                    "id": "gamK7C4R",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-11 00:00:00",
+                    "end_date": "2019-06-11 00:00:00"
+                },
+                "2019-06-12": {
+                    "id": "gamK7C4R",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-12 00:00:00",
+                    "end_date": "2019-06-12 00:00:00"
+                },
+                "2019-06-13": {
+                    "id": "gamK7C4R",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-13 00:00:00",
+                    "end_date": "2019-06-13 00:00:00"
+                },
+                "2019-06-14": {
+                    "id": "gamK7C4R",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-14 00:00:00",
+                    "end_date": "2019-06-14 00:00:00"
+                },
+                "2019-06-15": {
+                    "id": "iCjYiZSe",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "3",
+            "Type": "EarlyVoting",
+            "Description": "Lee City Hall EV Site 3",
+            "Address": "286 NE CR 255",
+            "City": "Lee",
+            "State": "FL",
+            "Zip": "32059",
+            "Latitude": 30.417135,
+            "Longitude": -83.30051
+        },
+        {
+            "uid": "hrFi38Xv",
+            "webservices_id": "4",
+            "county_id": "MAD",
+            "db_name": "vr6",
+            "status_updated_at": "2018-08-19 17:10:20",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "ZcpwDavm",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-09 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "afHaktyz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-14 00:00:00",
+                    "type": "HoursItem"
+                },
+                {
+                    "uid": "L2LNYrka",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2019-06-08": {
+                    "id": "ZcpwDavm",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-08 00:00:00",
+                    "end_date": "2019-06-08 00:00:00"
+                },
+                "2019-06-09": {
+                    "id": "ZcpwDavm",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-09 00:00:00",
+                    "end_date": "2019-06-09 00:00:00"
+                },
+                "2019-06-10": {
+                    "id": "afHaktyz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-10 00:00:00",
+                    "end_date": "2019-06-10 00:00:00"
+                },
+                "2019-06-11": {
+                    "id": "afHaktyz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-11 00:00:00",
+                    "end_date": "2019-06-11 00:00:00"
+                },
+                "2019-06-12": {
+                    "id": "afHaktyz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-12 00:00:00",
+                    "end_date": "2019-06-12 00:00:00"
+                },
+                "2019-06-13": {
+                    "id": "afHaktyz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-13 00:00:00",
+                    "end_date": "2019-06-13 00:00:00"
+                },
+                "2019-06-14": {
+                    "id": "afHaktyz",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2019-06-14 00:00:00",
+                    "end_date": "2019-06-14 00:00:00"
+                },
+                "2019-06-15": {
+                    "id": "L2LNYrka",
+                    "open_time": "1980-01-01 07:00:00",
+                    "close_time": "1980-01-01 15:00:00",
+                    "start_date": "2019-06-15 00:00:00",
+                    "end_date": "2019-06-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "4",
+            "Type": "EarlyVoting",
+            "Description": "Pinetta Vol. Fire Dept. EV Site 8",
+            "Address": "509 NE Persimmon Dr",
+            "City": "Pinetta",
+            "State": "FL",
+            "Zip": "32350",
+            "Latitude": 30.595275,
+            "Longitude": -83.353981
+        },
+        {
+            "uid": "QbbA7Urf",
+            "webservices_id": "5",
+            "county_id": "MAD",
+            "db_name": "vr6",
+            "status_updated_at": "2019-06-18 12:25:35",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "5",
+            "Type": "EarlyVoting",
+            "Description": "SIRMANS- Sirmans Vol. Fire Dept",
+            "Address": "118 SW Okaloo way",
+            "City": "Greenville",
+            "State": "FL",
+            "Zip": "32331",
+            "Latitude": 30.353748,
+            "Longitude": -83.65318
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": true,
+    "timezone": "ET"
+}

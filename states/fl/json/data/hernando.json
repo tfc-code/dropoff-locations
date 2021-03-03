@@ -1,0 +1,570 @@
+{
+    "county": "hernando",
+    "county_center_lat": 28.510951799999997,
+    "county_center_long": -82.44943939999999,
+    "county_id": "HER",
+    "display_schedule": true,
+    "display_wait_times": true,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "XJvD3btk",
+            "webservices_id": "E1",
+            "county_id": "HER",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-19 18:04:16",
+            "position": 1,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-07": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "vuNuAWyo",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "E1",
+            "Type": "EarlyVoting",
+            "Description": "SOUTH BROOKSVILLE COMMUNITY CENTER",
+            "Address": "601 E DR. MARTIN LUTHER KING BLVD",
+            "City": "Brooksville",
+            "State": "FL",
+            "Zip": "34601",
+            "Latitude": 28.5458,
+            "Longitude": -82.3802
+        },
+        {
+            "uid": "yWNUqAai",
+            "webservices_id": "E2",
+            "county_id": "HER",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-19 18:04:21",
+            "position": 2,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-07": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "KBDBp7Mn",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "E2",
+            "Type": "EarlyVoting",
+            "Description": "SOE WESTSIDE FOREST OAKS",
+            "Address": "7443 FOREST OAKS BLVD",
+            "City": "Spring Hill",
+            "State": "FL",
+            "Zip": "34608",
+            "Latitude": 28.490881,
+            "Longitude": -82.59369
+        },
+        {
+            "uid": "RjfaijHp",
+            "webservices_id": "E3",
+            "county_id": "HER",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-21 19:31:21",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-19 00:00:00",
+                    "end_date": "2020-10-31 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-10-19": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-19 00:00:00",
+                    "end_date": "2020-10-19 00:00:00"
+                },
+                "2020-10-20": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-20 00:00:00",
+                    "end_date": "2020-10-20 00:00:00"
+                },
+                "2020-10-21": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-21 00:00:00",
+                    "end_date": "2020-10-21 00:00:00"
+                },
+                "2020-10-22": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-22 00:00:00",
+                    "end_date": "2020-10-22 00:00:00"
+                },
+                "2020-10-23": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-23 00:00:00",
+                    "end_date": "2020-10-23 00:00:00"
+                },
+                "2020-10-24": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-24 00:00:00",
+                    "end_date": "2020-10-24 00:00:00"
+                },
+                "2020-10-25": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-25 00:00:00",
+                    "end_date": "2020-10-25 00:00:00"
+                },
+                "2020-10-26": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-26 00:00:00",
+                    "end_date": "2020-10-26 00:00:00"
+                },
+                "2020-10-27": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-27 00:00:00",
+                    "end_date": "2020-10-27 00:00:00"
+                },
+                "2020-10-28": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-28 00:00:00",
+                    "end_date": "2020-10-28 00:00:00"
+                },
+                "2020-10-29": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-29 00:00:00",
+                    "end_date": "2020-10-29 00:00:00"
+                },
+                "2020-10-30": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-30 00:00:00",
+                    "end_date": "2020-10-30 00:00:00"
+                },
+                "2020-10-31": {
+                    "id": "J4ddP2f2",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-31 00:00:00",
+                    "end_date": "2020-10-31 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "E3",
+            "Type": "EarlyVoting",
+            "Description": "EAST HERNANDO BRANCH LIBRARY",
+            "Address": "6457 WINDMERE ROAD",
+            "City": "Brooksville",
+            "State": "FL",
+            "Zip": "34608",
+            "Latitude": 28.526169,
+            "Longitude": -82.23373
+        },
+        {
+            "uid": "zhFEKuLY",
+            "webservices_id": "E4",
+            "county_id": "HER",
+            "db_name": "vr6",
+            "status_updated_at": "2020-03-19 18:04:02",
+            "position": 0,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-07": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-07 00:00:00",
+                    "end_date": "2020-08-07 00:00:00"
+                },
+                "2020-08-08": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "3xU4D3GZ",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 17:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Less than 15 minute wait",
+            "evid_status_text": "Less than 15 minutes",
+            "color": "green",
+            "evl_status": 1,
+            "Id": "E4",
+            "Type": "EarlyVoting",
+            "Description": "SPRING HILL LIBRARY",
+            "Address": "9220 SPRING HILL DR",
+            "City": "SPRING HILL",
+            "State": "FL",
+            "Zip": "34608",
+            "Latitude": 28.45547,
+            "Longitude": -82.56696
+        },
+        {
+            "uid": "DbkfnYwf",
+            "webservices_id": "E5",
+            "county_id": "HER",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-21 19:31:25",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [
+                {
+                    "uid": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-19 00:00:00",
+                    "end_date": "2020-10-31 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-10-19": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-19 00:00:00",
+                    "end_date": "2020-10-19 00:00:00"
+                },
+                "2020-10-20": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-20 00:00:00",
+                    "end_date": "2020-10-20 00:00:00"
+                },
+                "2020-10-21": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-21 00:00:00",
+                    "end_date": "2020-10-21 00:00:00"
+                },
+                "2020-10-22": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-22 00:00:00",
+                    "end_date": "2020-10-22 00:00:00"
+                },
+                "2020-10-23": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-23 00:00:00",
+                    "end_date": "2020-10-23 00:00:00"
+                },
+                "2020-10-24": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-24 00:00:00",
+                    "end_date": "2020-10-24 00:00:00"
+                },
+                "2020-10-25": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-25 00:00:00",
+                    "end_date": "2020-10-25 00:00:00"
+                },
+                "2020-10-26": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-26 00:00:00",
+                    "end_date": "2020-10-26 00:00:00"
+                },
+                "2020-10-27": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-27 00:00:00",
+                    "end_date": "2020-10-27 00:00:00"
+                },
+                "2020-10-28": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-28 00:00:00",
+                    "end_date": "2020-10-28 00:00:00"
+                },
+                "2020-10-29": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-29 00:00:00",
+                    "end_date": "2020-10-29 00:00:00"
+                },
+                "2020-10-30": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-30 00:00:00",
+                    "end_date": "2020-10-30 00:00:00"
+                },
+                "2020-10-31": {
+                    "id": "rujZbHRE",
+                    "open_time": "1980-01-01 08:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-10-31 00:00:00",
+                    "end_date": "2020-10-31 00:00:00"
+                }
+            },
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "E5",
+            "Type": "EarlyVoting",
+            "Description": "HERNANDO COUNTY UTILITIES DEPARTMENT",
+            "Address": "15365 CORTEZ BLVD",
+            "City": "BROOKSVILLE",
+            "State": "FL",
+            "Zip": "34613",
+            "Latitude": 28.536439,
+            "Longitude": -82.472617
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

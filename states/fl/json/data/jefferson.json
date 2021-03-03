@@ -1,0 +1,43 @@
+{
+    "county": "jefferson",
+    "county_center_lat": null,
+    "county_center_long": null,
+    "county_id": "JEF",
+    "display_schedule": true,
+    "display_wait_times": true,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "S4twB3GE",
+            "webservices_id": "1",
+            "county_id": "JEF",
+            "db_name": "vr6",
+            "status_updated_at": "1900-01-01 00:00:00",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [],
+            "schedule": [],
+            "prettySchedule": {},
+            "evl_status_text": "Wait time not available",
+            "evid_status_text": "Wait time not available",
+            "color": "lightBlue",
+            "evl_status": 5,
+            "Id": "1",
+            "Type": "EarlyVoting",
+            "Description": "Election Office",
+            "Address": "",
+            "City": "",
+            "State": "FL",
+            "Zip": ""
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "ET"
+}

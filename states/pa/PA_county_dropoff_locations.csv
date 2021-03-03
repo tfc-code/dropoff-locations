@@ -1,0 +1,498 @@
+County,Location,Drop-Off Location?,Vote-Early Location?,Street Address 1,Street Address 2,City,Zip
+Adams,Adams County Board of Elections,TRUE,FALSE,​117 Baltimore Street,,Gettysburg,17325
+Allegheny,Allegheny County Board of Elections,FALSE,TRUE,542 Forbes Avenue,,Pittsburgh,15219
+Allegheny,Allegheny County Board of Elections,TRUE,FALSE,542 Forbes Avenue,,Pittsburgh,15219
+Allegheny,Allegheny North Park Ice Rink,FALSE,TRUE,1200 Pearce Mill Road,,Wexford,15090
+Allegheny,Allegheny North Park Ice Rink,TRUE,FALSE,1200 Pearce Mill Road,,Wexford,15090
+Allegheny,Allegheny South Park Ice Rink,FALSE,TRUE,30 Corrigan Drive,,Bethel Park,15102
+Allegheny,Allegheny South Park Ice Rink,TRUE,FALSE,30 Corrigan Drive,,Bethel Park,15102
+Allegheny,Allegheny DPW Garage #2,FALSE,TRUE,1040 Campbells Run Road,,Carnegie,15106
+Allegheny,Allegheny DPW Garage #2,TRUE,FALSE,1040 Campbells Run Road,,Carnegie,15106
+Allegheny,Allegheny CCAC Homewood,FALSE,TRUE,701 N. Homewood Avenue,,Pittsburgh,15208
+Allegheny,Allegheny CCAC Homewood,TRUE,FALSE,701 N. Homewood Avenue,,Pittsburgh,15208
+Allegheny,Allegheny CCAC South,FALSE,TRUE,1750 Clairton Road,,West Mifflin,15122
+Allegheny,Allegheny CCAC South,TRUE,FALSE,1750 Clairton Road,,West Mifflin,15122
+Allegheny,Allegheny Boyce Park Ski Lodge,FALSE,TRUE,901 Centerview Drive,,Plum,15239
+Allegheny,Allegheny Boyce Park Ski Lodge,TRUE,FALSE,901 Centerview Drive,,Plum,15239
+Allegheny,Allegheny Shop 'n Save Hill District,FALSE,TRUE,125 Virginia Avenue,,Pittsburgh,15211
+Allegheny,Allegheny Shop 'n Save Hill District,TRUE,FALSE,125 Virginia Avenue,,Pittsburgh,15211
+Allegheny,CCAC Allegheny,FALSE,TRUE,808 Ridge Avenue,,Pittsburgh,15212
+Allegheny,CCAC Allegheny,TRUE,FALSE,808 Ridge Avenue,,Pittsburgh,15212
+Armstrong,Armstrong County Board of Elections,FALSE,TRUE,450 Market Street,Suite 207,Kittanning,16201
+Armstrong,Armstrong County Board of Elections,TRUE,FALSE,450 Market Street,Suite 207,Kittanning,16201
+Beaver,Beaver County Board of Elections,FALSE,TRUE,810 Third Street,,Beaver,15009
+Beaver,Beaver County Board of Elections,TRUE,FALSE,810 Third Street,,Beaver,15009
+Bedford,Bedford County Board of Elections,FALSE,TRUE,200 S Juliana St,Suite 300,Bedford,15522
+Bedford,Bedford County Board of Elections,TRUE,FALSE,200 S Juliana St,Suite 300,Bedford,15522
+Berks,Berks County Board of Elections,FALSE,TRUE,633 Court Street,1st Floor,Reading,19601
+Berks,Berks County Board of Elections,TRUE,FALSE,633 Court Street,1st Floor,Reading,19601
+Blair,Blair County Board of Elections,FALSE,TRUE,423 Allegheny Street,Suite 43,Hollidaysburg,16648
+Blair,Blair County Board of Elections,TRUE,FALSE,423 Allegheny Street,Suite 43,Hollidaysburg,16648
+Bradford,Bradford County Board of Elections,FALSE,TRUE,6 Court Street,Suite 2,Towanda,18848
+Bradford,Bradford County Board of Elections,TRUE,FALSE,6 Court Street,Suite 2,Towanda,18848
+Bucks,Bucks County Administration Building,FALSE,TRUE,55 E. Court St.,,Doylestown,18901
+Bucks,Bucks County Administration Building,TRUE,FALSE,55 E. Court St.,,Doylestown,18901
+Bucks,Lower Bucks Government Services Center,FALSE,TRUE,7321 New Falls Road,,Levittown,19055
+Bucks,Lower Bucks Government Services Center,TRUE,FALSE,7321 New Falls Road,,Levittown,19055
+Bucks,Upper Bucks Government Center,FALSE,TRUE,261 California Rd.,,Quakertown,18951
+Bucks,Upper Bucks Government Center,TRUE,FALSE,261 California Rd.,,Quakertown,18951
+Butler,Butler County Board of Elections,FALSE,TRUE,124 W Diamond Street,,Butler,16001
+Butler,Butler County Board of Elections,TRUE,FALSE,124 W Diamond Street,,Butler,16001
+Cambria,Cambria County Board of Elections,FALSE,TRUE,200 South Center Street,,Ebensberg,15931
+Cambria,Cambria County Board of Elections,TRUE,FALSE,200 South Center Street,,Ebensberg,15931
+Cameron,Cameron County Board of Elections,FALSE,TRUE,20 E. 5th St.,,Emporium,15834
+Cameron,Cameron County Board of Elections,TRUE,FALSE,20 E. 5th St.,,Emporium,15834
+Carbon,Carbon County Board of Elections,FALSE,TRUE,76 Susquehanna St.,,Jim Thorpe,18229
+Carbon,Carbon County Board of Elections,TRUE,FALSE,76 Susquehanna St.,,Jim Thorpe,18229
+Centre,Willowbank Office Building,TRUE,FALSE,420 Holmes Street,,Bellefonte,16823
+Centre,Patton Township Municipal Building,TRUE,FALSE,100 Patton Plaza,,State College,16803
+Centre,Ferguson Township Municipal Building,TRUE,FALSE,3147 Research Drive,,State College,16801
+Centre,State College Borough Municipal Building,TRUE,FALSE,243 South Allen Street,,State College,16801
+Centre,Spring Township Municipal Building,TRUE,FALSE,1309 Blanchard Street,,Bellefonte,16823
+Centre,Magisterial District Office 49-3-03,TRUE,FALSE,118 Enterprise Drive,,Phillipsburg,16866
+Centre,Magisterial District Office 49-3-04,TRUE,FALSE,2795 Earlystown Road,,Central Hall,16828
+Centre,HUB-Robeson Center,TRUE,FALSE,100 Pollock Road,,University Park,16802
+Chester,Chester County Government Services Center,FALSE,TRUE,601 Westtown Rd,Suite 150,West Chester,19380
+Chester,Chester County Government Services Center,TRUE,FALSE,601 Westtown Rd,Suite 150,West Chester,19380
+Chester,Avon Grove Library,TRUE,FALSE,117 Rosehill Avenue,,West Grove,19390
+Chester,Chester County Library,TRUE,FALSE,450 Exton Square Parkway,,Exton,19341
+Chester,Coatesville Area Public Library,TRUE,FALSE,501 E. Lincoln Highway,,Coatesville,19320
+Chester,Downington Library,TRUE,FALSE,122 Wallace Avenue,,Downington,19335
+Chester,Easttown Library & Information Center,TRUE,FALSE,720 First Avenue,,Berwyn,19312
+Chester,Honey Brook Community Library,TRUE,FALSE,687 Compass Road,,Honey Brook,19344
+Chester,Kennett Library,TRUE,FALSE,216 State Street,,Kennett Square,19348
+Chester,Phoenixville Public Library,TRUE,FALSE,183 2nd Avenue,,Phoenixville,19460
+Chester,Parkesburg Free Library,TRUE,FALSE,105 West Street,,Parkesburg,19365
+Chester,Spring City Free Library,TRUE,FALSE,245 Broad Street,,Spring City,19475
+Chester,Henrietta Hankin Library,FALSE,TRUE,215 Windgate Dr.,,Chester Springs,19425
+Chester,Henrietta Hankin Library,TRUE,FALSE,215 Windgate Dr.,,Chester Springs,19425
+Chester,Oxford Library Company,FALSE,TRUE,48 S 2nd Street,,Oxford,19425
+Chester,Oxford Library Company,TRUE,FALSE,48 S 2nd Street,,Oxford,19425
+Clarion,Clarion County Board of Elections,FALSE,TRUE,330 Main Street,,Clarion,16214
+Clarion,Clarion County Board of Elections,TRUE,FALSE,330 Main Street,,Clarion,16214
+Clearfield,Clearfield County Board of Elections,FALSE,TRUE,212 East Locust Street,,Clearfield,16830
+Clearfield,Clearfield County Board of Elections,TRUE,FALSE,212 East Locust Street,,Clearfield,16830
+Clinton,Clinton County Board of Elections,FALSE,TRUE,2 Piper Way,Suite 309,Lock Haven,17745
+Clinton,Clinton County Board of Elections,TRUE,FALSE,2 Piper Way,Suite 309,Lock Haven,17745
+Columbia,Columbia County Board of Elections,FALSE,TRUE,11 W. Main Street,,Bloomsburg,17815
+Columbia,Columbia County Board of Elections,TRUE,FALSE,11 W. Main Street,,Bloomsburg,17815
+Crawford,Crawford County Board of Elections,FALSE,TRUE,903 Diamond Park,,Meadville,16335
+Crawford,Crawford County Board of Elections,TRUE,FALSE,903 Diamond Park,,Meadville,16335
+Cumberland,Cumberland County Board of Elections,FALSE,TRUE,1601 Ritner Highway,,Carlisle,17013
+Cumberland,Cumberland County Board of Elections,TRUE,FALSE,1601 Ritner Highway,,Carlisle,17013
+Dauphin,Dauphin County Board of Elections,FALSE,TRUE,2 S. 2nd St.,,Harrisburg,17108
+Dauphin,Dauphin County Board of Elections,TRUE,FALSE,2 S. 2nd St.,,Harrisburg,17108
+Delaware,Delaware County Board of Elections,FALSE,TRUE,201 W. Front St.,,Media,19063
+Delaware,Delaware County Board of Elections,TRUE,FALSE,201 W. Front St.,,Media,19063
+Delaware,Delaware County Department of Human Services,FALSE,TRUE,20 S. 69th Street,4th Fl.,Upper Darby,19082
+Delaware,Delaware County Department of Human Services,TRUE,FALSE,20 S. 69th Street,4th Fl.,Upper Darby,19082
+Delaware,Chester City Hall,FALSE,TRUE,1 E 4th St.,,Chester,19013
+Delaware,Chester City Hall,TRUE,FALSE,1 E 4th St.,,Chester,19013
+Elk,Elk County Board of Elections,FALSE,TRUE,300 Center St.,,Ridgway,15853
+Elk,Elk County Board of Elections,TRUE,FALSE,300 Center St.,,Ridgway,15853
+Erie,Erie County Board of Elections,FALSE,TRUE,140 W. 6th St.,Rm. 112,Erie,16501
+Erie,Erie County Board of Elections,TRUE,FALSE,140 W. 6th St.,Rm. 112,Erie,16501
+Fayette,Fayette County Board of Elections,FALSE,TRUE,22 E. Main St.,,Uniontown,15401
+Fayette,Fayette County Board of Elections,TRUE,FALSE,22 E. Main St.,,Uniontown,15401
+Forest,Forest County Board of Elections,FALSE,TRUE,526 Elm Street,,Tionesta,16353
+Forest,Forest County Board of Elections,TRUE,FALSE,526 Elm Street,,Tionesta,16353
+Franklin,Franklin County Board of Elections,FALSE,TRUE,2 N Main Street,Old Courthouse,Chambersburg,17201
+Franklin,Franklin County Board of Elections,TRUE,FALSE,2 N Main Street,Old Courthouse,Chambersburg,17201
+Fulton,Fulton County Board of Elections,FALSE,TRUE,116 West Market Street,Suite 205,McConnellsburg,17233
+Fulton,Fulton County Board of Elections,TRUE,FALSE,116 West Market Street,Suite 205,McConnellsburg,17233
+Greene,Greene County Board of Elections,FALSE,TRUE,93 E. High Street,,Waynesburg,15370
+Greene,Greene County Board of Elections,TRUE,FALSE,93 E. High Street,,Waynesburg,15370
+Huntingdon,Huntingdon County Board of Elections,FALSE,TRUE,233 Penn Street,,Huntingdon,16652
+Huntingdon,Huntingdon County Board of Elections,TRUE,FALSE,233 Penn Street,,Huntingdon,16652
+Indiana,Indiana County Board of Elections,FALSE,TRUE,825 Philadelphia Street,Commissioners Office 2nd Floor,Indiana,15701
+Indiana,Indiana County Board of Elections,TRUE,FALSE,825 Philadelphia Street,Commissioners Office 2nd Floor,Indiana,15701
+Jefferson,Jefferson County Board of Elections,FALSE,TRUE,155 Main Street,,Brookville,15825
+Jefferson,Jefferson County Board of Elections,TRUE,FALSE,155 Main Street,,Brookville,15825
+Juniata,Juniata County Board of Elections,FALSE,TRUE,26 N. Main Street,The Bousum Building,Mifflintown,17059
+Juniata,Juniata County Board of Elections,TRUE,FALSE,26 N. Main Street,The Bousum Building,Mifflintown,17059
+Lackawanna,Lackawanna County Department of Elections,FALSE,TRUE,123 Wyoming Avenue,Lackawanna County Government Center,Scranton,18503
+Lackawanna,Lackawanna County Department of Elections,TRUE,FALSE,123 Wyoming Avenue,Lackawanna County Government Center,Scranton,18503
+Lancaster,Lancaster County Board of Elections,FALSE,TRUE,150 N. Queen St.,Suite 117,Lancaster,17603
+Lancaster,Lancaster County Board of Elections,TRUE,FALSE,150 N. Queen St.,Suite 117,Lancaster,17603
+Lawrence,Lawrence County Board of Elections,FALSE,TRUE,430 Court St.,,New Castle,16101
+Lawrence,Lawrence County Board of Elections,TRUE,FALSE,430 Court St.,,New Castle,16101
+Lebanon,Lebanon County Board of Elections,FALSE,TRUE,400 South 8th Street,"Municipal Building, Room 209",Lebanon,17042
+Lebanon,Lebanon County Board of Elections,TRUE,FALSE,400 South 8th Street,"Municipal Building, Room 209",Lebanon,17042
+Lehigh,Lehigh County Office of Elections and Voter Registration,FALSE,TRUE,17 South Seventh Street,,Allentown,18101
+Lehigh,Lehigh County Office of Elections and Voter Registration,TRUE,FALSE,17 South Seventh Street,,Allentown,18101
+Lehigh,North Whitehall,TRUE,FALSE,3256 Levans Road,,Coplay,18037
+Lehigh,Upper Macungie Township,TRUE,FALSE,8330 Schantz Road,,Breinigsville,18031
+Lehigh,Catasaqua Municipal Building,TRUE,FALSE,90 Bridge St,,Catasaqua,18032
+Lehigh,Emmaus Borough Building,TRUE,FALSE,28 S. Fourth St.,,Emmaus,18049
+Luzerne,"Luzerne County Bureau of Elections, Penn Place",FALSE,TRUE,20 N Pennsylvania Avenue,,Wilkes-Barre,18701
+Luzerne,"Luzerne County Bureau of Elections, Penn Place",TRUE,FALSE,20 N Pennsylvania Avenue,,Wilkes-Barre,18701
+Lycoming,Lycoming County Board of Elections,FALSE,TRUE,33 West Third Street,,Williamsport,17701
+Lycoming,Lycoming County Board of Elections,TRUE,FALSE,33 West Third Street,,Williamsport,17701
+McKean,McKean County Board of Elections,FALSE,TRUE,500 West Main Street,,Smethport,16749
+McKean,McKean County Board of Elections,TRUE,FALSE,500 West Main Street,,Smethport,16749
+Mercer,Mercer County Board of Elections,FALSE,TRUE,5 Mercer County Courthouse,,Mercer,16137
+Mercer,Mercer County Board of Elections,TRUE,FALSE,5 Mercer County Courthouse,,Mercer,16137
+Mifflin,Mifflin County Board of Elections,FALSE,TRUE,20 N. Wayne St.,,Lewistown,17044
+Mifflin,Mifflin County Board of Elections,TRUE,FALSE,20 N. Wayne St.,,Lewistown,17044
+Monroe,Monroe County Office of Elections and Voter Registration,FALSE,TRUE,One Quaker Plaza,Room 105,Stroudsburg,18360
+Monroe,Monroe County Office of Elections and Voter Registration,TRUE,FALSE,One Quaker Plaza,Room 105,Stroudsburg,18360
+Monroe,Pocono Mountain Public Library,TRUE,FALSE,5500 Municipal Drive,,Tobyhannah,18466
+Monroe,Western Pocono Community Library,TRUE,FALSE,131 Pilgrim Way,,Broadheadsville,18322
+Monroe,Clymer Library,TRUE,FALSE,115 Firehouse Road,,Pocono Pines,18350
+Monroe,Hughes Public Library,TRUE,FALSE,1002 N 9th St.,,Stroudsburg,18360
+Monroe,Smithfield Township,TRUE,FALSE,1155 Red Fox Road,,East Stroudsburg,18301
+Montgomery,Montgomery County Human Services Center,FALSE,TRUE,1430 Dekalb Street,,Norristown,19401
+Montgomery,Montgomery County Human Services Center,TRUE,FALSE,1430 Dekalb Street,,Norristown,19401
+Montgomery,Montgomery County Willow Grove Annex,FALSE,TRUE,102 N. York Road,,Willow Grove,19090
+Montgomery,Montgomery County Willow Grove Annex,TRUE,FALSE,102 N. York Road,,Willow Grove,19090
+Montgomery,Montgomery County Lansdale Office,FALSE,TRUE,421 West Main Street,,Lansdale,19446
+Montgomery,Montgomery County Lansdale Office,TRUE,FALSE,421 West Main Street,,Lansdale,19446
+Montgomery,Montgomery County Magisterial District Court Office-Lower Merion,FALSE,TRUE,925 Montgomery Avenue,,Narberth,19072
+Montgomery,Montgomery County Magisterial District Court Office-Lower Merion,TRUE,FALSE,925 Montgomery Avenue,,Narberth,19072
+Montgomery,Montgomery County Community College West Campus,FALSE,TRUE,101 College Drive,,Pottstown,19464
+Montgomery,Montgomery County Community College West Campus,TRUE,FALSE,101 College Drive,,Pottstown,19464
+Montgomery,Montgomery County Board of Elections Office,FALSE,TRUE,One Montgomery Plaza,,Norristown,19410
+Montgomery,Montgomery County Board of Elections Office,TRUE,FALSE,One Montgomery Plaza,,Norristown,19410
+Montgomery,Cheltenham Wall Park,TRUE,FALSE,1 Wall Park Drive,,Elkins,19027
+Montgomery,Lansdale Church Road Parking Lot,TRUE,FALSE,226 Station Square Blvd.,,Lansdale,19446
+Montgomery,Lower Merion Ludington Library,TRUE,FALSE,5 S.Bryn Mawr Ave.,,Bryn Mawr,19010
+Montgomery,Norristown Airy Street Parking Lot,TRUE,FALSE,Corner of Dekalb and Airy Streets,,Norristown,19401
+Montgomery,Pottstown Montgomery County Community College - West Campus,TRUE,FALSE,95 S. Hanover Street,,Pottstown,19464
+Montgomery,Royersford Municipal Building,TRUE,FALSE,300 Main,,Royersford,19468
+Montgomery,Skippack Skippack Municipal Building,TRUE,FALSE,4089 Heckler Road,,Skippack,19474
+Montgomery,Upper Dublin Upper Dublin Municipal Building,TRUE,FALSE,801 Loch Alsh Avenue,,Fort Washington,19034
+Montgomery,Upper Frederick Green Lane,TRUE,FALSE,2144 Snyder Road,,Green Lane,18054
+Montgomery,Upper Moreland Willow Grove YMCA,TRUE,FALSE,3300 Davisville Road,,Hartboro,19030
+Montour,Montour County Board of Elections,FALSE,TRUE,253 Mill Street,,Danville,17821
+Montour,Montour County Board of Elections,TRUE,FALSE,253 Mill Street,,Danville,17821
+Northampton,Northampton County Office of Elections and Voter Registration,FALSE,TRUE,669 Washington St.,Room 1211,Easton,18042
+Northampton,Northampton County Office of Elections and Voter Registration,TRUE,FALSE,669 Washington St.,Room 1211,Easton,18042
+Northampton,Northampton County Human Services Building,TRUE,FALSE,2801 Emrick Blvd,,Bethlehem,18020
+Northampton,Northampton County 911 Center,TRUE,FALSE,100 Gracedale Avenue,,Nazareth,18064
+Northampton,Bethlehem City Hall,TRUE,FALSE,10 E. Church St.,,Bethlehem,18018
+Northumberland,Northumberland County Board of Elections,FALSE,TRUE,320 North Second Street,Suite 1,Sunbury,17801
+Northumberland,Northumberland County Board of Elections,TRUE,FALSE,320 North Second Street,Suite 1,Sunbury,17801
+Perry,Perry County Board of Elections,FALSE,TRUE,"Veterans Memorial Building, PO Box 37",,New Bloomfield,17068
+Perry,Perry County Board of Elections,TRUE,FALSE,"Veterans Memorial Building, PO Box 37",,New Bloomfield,17068
+Philadelphia,"City Hall, Room 140",FALSE,TRUE,1400 John F Kennedy Blvd,,Philadelphia,19107
+Philadelphia,"City Hall, Room 140",TRUE,FALSE,1400 John F Kennedy Blvd,,Philadelphia,19107
+Philadelphia,"Riverview Place, 1st Floor",FALSE,TRUE,520 N Columbus Blvd,,Philadelphia,19123
+Philadelphia,"Riverview Place, 1st Floor",TRUE,FALSE,520 N Columbus Blvd,,Philadelphia,19123
+Philadelphia,George Washington High School,FALSE,TRUE,10175 Bustleton Ave,,Philadelphia,19116
+Philadelphia,George Washington High School,TRUE,FALSE,10175 Bustleton Ave,,Philadelphia,19116
+Philadelphia,Joseph H. Brown School,FALSE,TRUE,3600 Stanwood St,,Philadelphia,19136
+Philadelphia,Joseph H. Brown School,TRUE,FALSE,3600 Stanwood St,,Philadelphia,19136
+Philadelphia,Harding Middle School,FALSE,TRUE,2000 Wakeling Street,,Philadelphia,19124
+Philadelphia,Harding Middle School,TRUE,FALSE,2000 Wakeling Street,,Philadelphia,19124
+Philadelphia,J Hampton Moore School,FALSE,TRUE,6900 Summerdale Ave,,Philadelphia,19111
+Philadelphia,J Hampton Moore School,TRUE,FALSE,6900 Summerdale Ave,,Philadelphia,19111
+Philadelphia,The Liacouras Center,FALSE,TRUE,1776 N Broad St,,Philadelphia,19121
+Philadelphia,The Liacouras Center,TRUE,FALSE,1776 N Broad St,,Philadelphia,19121
+Philadelphia,A. B. Day School,FALSE,TRUE,6324 Crittenden St,,Philadelphia,19138
+Philadelphia,A. B. Day School,TRUE,FALSE,6324 Crittenden St,,Philadelphia,19138
+Philadelphia,Roxborough High School,FALSE,TRUE,6498 Ridge Ave,,Philadelphia,19128
+Philadelphia,Roxborough High School,TRUE,FALSE,6498 Ridge Ave,,Philadelphia,19128
+Philadelphia,Mastbaum High School,FALSE,TRUE,3116 Frankford Ave,,Philadelphia,19134
+Philadelphia,Mastbaum High School,TRUE,FALSE,3116 Frankford Ave,,Philadelphia,19134
+Philadelphia,Creative And Performing Arts,FALSE,TRUE,901 S Broad St,,Philadelphia,19147
+Philadelphia,Creative And Performing Arts,TRUE,FALSE,901 S Broad St,,Philadelphia,19147
+Philadelphia,Tilden Middle School,FALSE,TRUE,6601 Elmwood Ave,,Philadelphia,19142
+Philadelphia,Tilden Middle School,TRUE,FALSE,6601 Elmwood Ave,,Philadelphia,19142
+Philadelphia,Feltonville Intermediate School,FALSE,TRUE,238 E Wyoming Ave,,Philadelphia,19120
+Philadelphia,Feltonville Intermediate School,TRUE,FALSE,238 E Wyoming Ave,,Philadelphia,19120
+Philadelphia,Julia De Burgos Elementary,FALSE,TRUE,401 W Lehigh Ave,,Philadelphia,19133
+Philadelphia,Julia De Burgos Elementary,TRUE,FALSE,401 W Lehigh Ave,,Philadelphia,19133
+Philadelphia,Julia Ward Howe School,FALSE,TRUE,5800 N 13th St,,Philadelphia,19141
+Philadelphia,Julia Ward Howe School,TRUE,FALSE,5800 N 13th St,,Philadelphia,19141
+Philadelphia,Alain Locke School,FALSE,TRUE,4550 Haverford Ave,,Philadelphia,19139
+Philadelphia,Alain Locke School,TRUE,FALSE,4550 Haverford Ave,,Philadelphia,19139
+Philadelphia,Overbrook Elementary School,FALSE,TRUE,2032 N 62nd St,,Philadelphia,19151
+Philadelphia,Overbrook Elementary School,TRUE,FALSE,2032 N 62nd St,,Philadelphia,19151
+Pike,Pike County Elections Office,FALSE,TRUE,506 Broad Street,,Milford,18337
+Pike,Pike County Elections Office,TRUE,FALSE,506 Broad Street,,Milford,18337
+Potter,Potter County Board of Elections,FALSE,TRUE,"1 N. Main St., Suite 204",Gunzburger Building,Coudersport,16915
+Potter,Potter County Board of Elections,TRUE,FALSE,"1 N. Main St., Suite 204",Gunzburger Building,Coudersport,16915
+Schuylkill,Schuylkill County Board of Elections,FALSE,TRUE,420 North Centre Street,,Pottsville,17901
+Schuylkill,Schuylkill County Board of Elections,TRUE,FALSE,420 North Centre Street,,Pottsville,17901
+Snyder,Snyder County Board of Elections,FALSE,TRUE,9 West Market Street,,Middleburg,17842
+Snyder,Snyder County Board of Elections,TRUE,FALSE,9 West Market Street,,Middleburg,17842
+Somerset,Somerset County Board of Elections,FALSE,TRUE,300 North Center Avenue,Suite 340,Somerset,15501
+Somerset,Somerset County Board of Elections,TRUE,FALSE,300 North Center Avenue,Suite 340,Somerset,15501
+Sullivan,Sullivan County Board of Elections,FALSE,TRUE,245 Muncy Street,,Laporte,18626
+Sullivan,Sullivan County Board of Elections,TRUE,FALSE,245 Muncy Street,,Laporte,18626
+Susquehanna,Susquehanna County Board of Elections,FALSE,TRUE,31 Lake Avenue,,Montrose,18801
+Susquehanna,Susquehanna County Board of Elections,TRUE,FALSE,31 Lake Avenue,,Montrose,18801
+Tioga,Tioga County Board of Elections,FALSE,TRUE,118 Main Street,,Wellsboro,16901
+Tioga,Tioga County Board of Elections,TRUE,FALSE,118 Main Street,,Wellsboro,16901
+Union,Union County Board of Elections,FALSE,TRUE,155 N. 15th Street,,Lewisburg,17837
+Union,Union County Board of Elections,TRUE,FALSE,155 N. 15th Street,,Lewisburg,17837
+Venango,Venango County Board of Elections,FALSE,TRUE,1174 Elk Street,"Courthouse Annex, Second Floor",Franklin,16323
+Venango,Venango County Board of Elections,TRUE,FALSE,1174 Elk Street,"Courthouse Annex, Second Floor",Franklin,16323
+Warren,Warren County Board of Elections,FALSE,TRUE,204 4th Avenue,,Warren,16365
+Warren,Warren County Board of Elections,TRUE,FALSE,204 4th Avenue,,Warren,16365
+Washington,Washington County Board of Elections,FALSE,TRUE,100 W. Beau St.,Suite 206,Washington,15301
+Washington,Washington County Board of Elections,TRUE,FALSE,100 W. Beau St.,Suite 206,Washington,15301
+Wayne,Wayne County Bureau of Elections,FALSE,TRUE,925 Court Street,,Honesdale,18431
+Wayne,Wayne County Bureau of Elections,TRUE,FALSE,925 Court Street,,Honesdale,18431
+Westmoreland,Westmoreland County Board of Elections,FALSE,TRUE,2 North Main Street,Suite 109,Greensburg,15601
+Westmoreland,Westmoreland County Board of Elections,TRUE,FALSE,2 North Main Street,Suite 109,Greensburg,15601
+Wyoming,Wyoming County Board of Elections,FALSE,TRUE,1 Courthouse Square,,Tunkhannock,18657
+Wyoming,Wyoming County Board of Elections,TRUE,FALSE,1 Courthouse Square,,Tunkhannock,18657
+York,York County Board of Elections,FALSE,TRUE,28 E. Market St.,,York,17401
+York,York County Board of Elections,TRUE,FALSE,28 E. Market St.,,York,17401
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,
+,,FALSE,FALSE,,,,

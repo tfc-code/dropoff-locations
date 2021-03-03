@@ -1,0 +1,519 @@
+{
+    "county": "okaloosa",
+    "county_center_lat": 30.5831026,
+    "county_center_long": -86.5385648,
+    "county_id": "OKA",
+    "display_schedule": true,
+    "display_wait_times": true,
+    "election_date": "1880-01-01",
+    "election_name": "No Current Election",
+    "ev_end_date": "1880-01-01",
+    "ev_start_date": "1880-01-01",
+    "id": null,
+    "locations": [
+        {
+            "uid": "6h2kX7JH",
+            "webservices_id": "EV-CL",
+            "county_id": "OKA",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-16 00:05:49",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "iGi3dAyy",
+                    "s3_key": "6h2kX7JH/2fb88c4a-eb97-42c9-9baf-ca1130e3f25e-Crestview Library.jpg",
+                    "alt_text": "Crestview Library",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/6h2kX7JH/2fb88c4a-eb97-42c9-9baf-ca1130e3f25e-Crestview%20Library.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=LbNeZupJHdYWo2%2FZ0TvkOHUl2No%3D&Expires=1599801624"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "T2aWmurq",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Polls are closed at this time",
+            "evid_status_text": "Polls are closed at this time",
+            "color": "grey",
+            "evl_status": 4,
+            "Id": "EV-CL",
+            "Type": "EarlyVoting",
+            "Description": "Crestview Community Center",
+            "Address": "1446 Commerce Dr",
+            "City": "Crestview",
+            "State": "FL",
+            "Zip": "32539",
+            "Latitude": 30.790728,
+            "Longitude": -86.55663
+        },
+        {
+            "uid": "vMBnPTGa",
+            "webservices_id": "EV-CO",
+            "county_id": "OKA",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-16 00:05:53",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "yGQzyVnL",
+                    "s3_key": "vMBnPTGa/9e3d4144-8df2-4490-aae6-80395cce86b2-Brackin Building.jpg",
+                    "alt_text": "Crestview Headquarters",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/vMBnPTGa/9e3d4144-8df2-4490-aae6-80395cce86b2-Brackin%20Building.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=Og6xZTzDbONt%2FIsy73GzCXDT2dg%3D&Expires=1599801624"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "LBbC2iGV",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Polls are closed at this time",
+            "evid_status_text": "Polls are closed at this time",
+            "color": "grey",
+            "evl_status": 4,
+            "Id": "EV-CO",
+            "Type": "EarlyVoting",
+            "Description": "Crestview Office",
+            "Address": "302 Wilson St N",
+            "City": "Crestview",
+            "State": "FL",
+            "Zip": "32536",
+            "Latitude": 30.758842,
+            "Longitude": -86.57172
+        },
+        {
+            "uid": "S6JhD5ka",
+            "webservices_id": "EV-DE",
+            "county_id": "OKA",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-16 00:05:56",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "LuNXTr4W",
+                    "s3_key": "S6JhD5ka/03a39b8d-a4b4-443a-a4f3-8f40f316bfba-Destin Community Center.jpg",
+                    "alt_text": "Destin Community Center",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/S6JhD5ka/03a39b8d-a4b4-443a-a4f3-8f40f316bfba-Destin%20Community%20Center.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=r8TMcR2Vhc7dewNbyZabrCAoNZA%3D&Expires=1599801624"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "4rBDgGw2",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Polls are closed at this time",
+            "evid_status_text": "Polls are closed at this time",
+            "color": "grey",
+            "evl_status": 4,
+            "Id": "EV-DE",
+            "Type": "EarlyVoting",
+            "Description": "Destin Community Center",
+            "Address": "101 Stahlman Ave",
+            "City": "Destin",
+            "State": "FL",
+            "Zip": "32541",
+            "Latitude": 30.39635,
+            "Longitude": -86.50914
+        },
+        {
+            "uid": "PWEz6mBu",
+            "webservices_id": "EV-NV",
+            "county_id": "OKA",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-16 00:05:59",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "aQGvCnkA",
+                    "s3_key": "PWEz6mBu/ee478d81-1ad8-4453-9d3f-218b1dd7f739-Niceville City Hall.jpg",
+                    "alt_text": "Niceville City Hall",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/PWEz6mBu/ee478d81-1ad8-4453-9d3f-218b1dd7f739-Niceville%20City%20Hall.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=580arTgo0MHmLc5U6hxUVtZSQHg%3D&Expires=1599801624"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "S2sUFNcL",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Polls are closed at this time",
+            "evid_status_text": "Polls are closed at this time",
+            "color": "grey",
+            "evl_status": 4,
+            "Id": "EV-NV",
+            "Type": "EarlyVoting",
+            "Description": "Niceville City Hall",
+            "Address": "208 Partin Dr N",
+            "City": "Niceville",
+            "State": "FL",
+            "Zip": "32578",
+            "Latitude": 30.524623,
+            "Longitude": -86.475564
+        },
+        {
+            "uid": "pzwiHAgx",
+            "webservices_id": "EV-SH",
+            "county_id": "OKA",
+            "db_name": "vr6",
+            "status_updated_at": "2020-08-16 00:05:45",
+            "position": null,
+            "hidden": false,
+            "type": "Location",
+            "images": [
+                {
+                    "uid": "py6hkk9o",
+                    "s3_key": "pzwiHAgx/e3ea0439-05b8-4a2b-b401-6769c8298bcb-Admin_Bldg_2.jpg",
+                    "alt_text": "Okaloosa County Admin Bldg",
+                    "type": "Image",
+                    "url": "https://vrs-vlsimages-production.s3.amazonaws.com/pzwiHAgx/e3ea0439-05b8-4a2b-b401-6769c8298bcb-Admin_Bldg_2.jpg?AWSAccessKeyId=AKIAJ5A2G52JLFCYONCA&Signature=2Uy%2B9K3PelHUjeirX%2BqMwq7kzYQ%3D&Expires=1599801624"
+                }
+            ],
+            "schedule": [
+                {
+                    "uid": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-15 00:00:00",
+                    "type": "HoursItem"
+                }
+            ],
+            "prettySchedule": {
+                "2020-08-08": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-08 00:00:00",
+                    "end_date": "2020-08-08 00:00:00"
+                },
+                "2020-08-09": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-09 00:00:00",
+                    "end_date": "2020-08-09 00:00:00"
+                },
+                "2020-08-10": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-10 00:00:00",
+                    "end_date": "2020-08-10 00:00:00"
+                },
+                "2020-08-11": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-11 00:00:00",
+                    "end_date": "2020-08-11 00:00:00"
+                },
+                "2020-08-12": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-12 00:00:00",
+                    "end_date": "2020-08-12 00:00:00"
+                },
+                "2020-08-13": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-13 00:00:00",
+                    "end_date": "2020-08-13 00:00:00"
+                },
+                "2020-08-14": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-14 00:00:00",
+                    "end_date": "2020-08-14 00:00:00"
+                },
+                "2020-08-15": {
+                    "id": "9MQQ3XJD",
+                    "open_time": "1980-01-01 09:00:00",
+                    "close_time": "1980-01-01 18:00:00",
+                    "start_date": "2020-08-15 00:00:00",
+                    "end_date": "2020-08-15 00:00:00"
+                }
+            },
+            "evl_status_text": "Polls are closed at this time",
+            "evid_status_text": "Polls are closed at this time",
+            "color": "grey",
+            "evl_status": 4,
+            "Id": "EV-SH",
+            "Type": "EarlyVoting",
+            "Description": "County Administration Building",
+            "Address": "1250 Eglin Pkwy",
+            "City": "Shalimar",
+            "State": "FL",
+            "Zip": "32579",
+            "Latitude": 30.44497,
+            "Longitude": -86.57977
+        }
+    ],
+    "registered_by": "1880-01-01",
+    "status": "inactive",
+    "usesVoteCenters": false,
+    "timezone": "CT"
+}

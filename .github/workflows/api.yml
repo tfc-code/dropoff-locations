@@ -1,0 +1,81 @@
+name: API
+on:
+  push:
+    branches: [master, production]
+  pull_request:
+    branches: "*"
+env:
+  NODE_VERSION: 12.9.0
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Install
+        working-directory: ./api
+        run: npm install
+      - name: Lint
+        working-directory: ./api
+        run: npm run lint
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Install
+        working-directory: ./api
+        run: npm install
+      - name: Test
+        working-directory: ./api
+        run: npm test
+
+  build-docker:
+    name: Build Docker Image
+    needs: [lint, test]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build API Docker Image
+        run: docker build ./api --file ./api/Dockerfile --tag dropoff-locations-api
+
+# since we have decommissioned the deployed environment, commenting this out for now
+#  deploy:
+#    name: Deploy to elastic beanstalk
+#    needs: [build-docker]
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v2
+#      - name: Generate deployment package
+#        working-directory: ./api
+#        run: zip -r deploy.zip . -x '*terraform' '*.terraform*'
+#      - name: Set environment to dev
+#        run: |
+#          echo "ENVIRONMENT=dev" >> $GITHUB_ENV
+#      - name: Set env to staging
+#        if: endsWith(github.ref, '/master')
+#        run: |
+#          echo "ENVIRONMENT=staging" >> $GITHUB_ENV
+#      - name: Set env to production
+#        if: endsWith(github.ref, '/production')
+#        run: |
+#          echo "ENVIRONMENT=prod" >> $GITHUB_ENV
+#      - name: Deploy to EB
+#        uses: einaregilsson/beanstalk-deploy@v13
+#        with:
+#          aws_access_key: ${{ secrets.AWS_API_ACCESS_ID }}
+#          aws_secret_key: ${{ secrets.AWS_API_SECRET_KEY }}
+#          application_name: dropoff-locations-api
+#          environment_name: "dropoff-locations-api-${{env.ENVIRONMENT}}"
+#          version_label: "dropoff-locations-api-${{env.ENVIRONMENT}}-${{github.run_id}}"
+#          region: us-east-1
+#          deployment_package: ./api/deploy.zip
+#          use_existing_version_if_available: true
+#          wait_for_deployment: false

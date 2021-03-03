@@ -1,0 +1,15 @@
+*DS_Store
+.Rproj.user
+*Rproj
+build
+node_modules
+*Rhistory
+*Rproj*
+.idea
+.Rproj.user
+*.lock
+*.ipynb
+*.swp
+.terraform
+*.~lock.*.xlsx#
+secrets.json

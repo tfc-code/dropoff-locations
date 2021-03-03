@@ -1,0 +1,2102 @@
+[
+    {
+        "county": "ALAMANCE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ALAMANCE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-570-6755",
+        "address": "115 SOUTH MAPLE STREET",
+        "city": "GRAHAM",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27253",
+        "notes": "http://www.alamance-nc.com/boardofelections/"
+    },
+    {
+        "county": "ALEXANDER",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ALEXANDER COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-632-2990",
+        "address": "370 1ST AVENUE SW",
+        "city": "TAYLORSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28681",
+        "notes": "http://alexandercountync.gov/departments/board-of-elections/"
+    },
+    {
+        "county": "ALLEGHANY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ALLEGHANY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-372-4557",
+        "address": "348 S. MAIN ST. LOWER LEVEL 10",
+        "city": "SPARTA",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28675",
+        "notes": "http://www.alleghanyelections.com"
+    },
+    {
+        "county": "ANSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ANSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-994-3223",
+        "address": "402 MORVEN ROAD",
+        "city": "WADESBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28170",
+        "notes": "http://nc-ansoncounty.civicplus.com/202/Board-of-Elections"
+    },
+    {
+        "county": "ASHE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ASHE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-846-5570",
+        "address": "150 GOVERNMENT CIRCLE, STE 2100",
+        "city": "JEFFERSON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28640",
+        "notes": "http://www.ashecountygov.com/departments/board-of-elections/"
+    },
+    {
+        "county": "AVERY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "4:30 PM"
+          }
+        ],
+        "name": "AVERY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-733-8282",
+        "address": "200 MONTEZUMA ST, SUITE 307, COURT HOUSE ANNEX",
+        "city": "NEWLAND",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28657",
+        "notes": "http://www.averycountync.gov/departments/board_elections_office.php"
+    },
+    {
+        "county": "BEAUFORT",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "BEAUFORT COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-946-2321",
+        "address": "1308 HIGHLAND DRIVE, SUITE 104",
+        "city": "WASHINGTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27889",
+        "notes": "https://www.beaufortncboe.org/"
+    },
+    {
+        "county": "BERTIE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "BERTIE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-794-5306",
+        "address": "210 W. WATSON ST.",
+        "city": "WINDSOR",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27983",
+        "notes": "http://www.co.bertie.nc.us/departments/elections/elections.html"
+    },
+    {
+        "county": "BLADEN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "BLADEN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-862-6951",
+        "address": "301 SOUTH CYPRESS STREET",
+        "city": "ELIZABETHTOWN",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28337",
+        "notes": "https://bladennc.govoffice3.com/index.asp?SEC=1B08DD3E-D802-4B15-9D99-CCCA341FAD38"
+    },
+    {
+        "county": "BRUNSWICK",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "BRUNSWICK COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-253-2620",
+        "address": "75 STAMP ACT DRIVE NE, BUILDING H",
+        "city": "BOLIVIA",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28422",
+        "notes": "http://www.brunswickcountync.gov/elections/"
+    },
+    {
+        "county": "BUNCOMBE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "BUNCOMBE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-250-4200",
+        "address": "77 MCDOWELL STREET",
+        "city": "ASHEVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28801",
+        "notes": "http://www.buncombecounty.org/governing/depts/Election/"
+    },
+    {
+        "county": "BURKE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "BURKE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-764-9010",
+        "address": "2128 S STERLING ST, STE. 100",
+        "city": "MORGANTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28655",
+        "notes": "http://www.burkenc.org/2414/Elections"
+    },
+    {
+        "county": "CABARRUS",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CABARRUS COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-920-2860",
+        "address": "369 CHURCH ST N",
+        "city": "CONCORD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28025",
+        "notes": "http://www.cabarruscounty.us/elections"
+    },
+    {
+        "county": "CALDWELL",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CALDWELL COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-757-1326",
+        "address": "120 HOSPITAL AVE",
+        "city": "LENOIR",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28645",
+        "notes": "http://www.caldwellcountync.org/caldwell-county-nc-departments/board-of-elections/"
+    },
+    {
+        "county": "CAMDEN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CAMDEN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-338-5530",
+        "address": "117 NC HWY 343 N",
+        "city": "CAMDEN",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27921",
+        "notes": "http://www.camdencountync.gov/departments/board-of-elections"
+    },
+    {
+        "county": "CARTERET",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CARTERET COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-728-8460",
+        "address": "1702 LIVE OAK ST, SUITE 200",
+        "city": "BEAUFORT",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28516",
+        "notes": "http://www.carteretcountyboe.org"
+    },
+    {
+        "county": "CASWELL",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CASWELL COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-694-4010",
+        "address": "140 MAIN STREET",
+        "city": "YANCEYVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27379",
+        "notes": "http://www.caswellcountync.gov/pView.aspx?id=8974&catid=600"
+    },
+    {
+        "county": "CATAWBA",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CATAWBA COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-464-2424",
+        "address": "145 GOVERNMENT DRIVE",
+        "city": "NEWTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28658",
+        "notes": "http://www.catawbacountync.gov/county-services/elections/"
+    },
+    {
+        "county": "CHATHAM",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CHATHAM COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-545-8500",
+        "address": "984 THOMPSON ST., STE. D",
+        "city": "PITTSBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27312",
+        "notes": "http://www.chathamnc.org/Index.aspx?page=110"
+    },
+    {
+        "county": "CHEROKEE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CHEROKEE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-837-6670",
+        "address": "40 PEACHTREE STREET",
+        "city": "MURPHY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28906",
+        "notes": "http://www.cherokeecounty-nc.gov/274/Board-of-Elections"
+    },
+    {
+        "county": "CHOWAN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CHOWAN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-482-4010",
+        "address": "730 N GRANVILLE STREET, SUITE \"D\"",
+        "city": "EDENTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27932",
+        "notes": "https://www.chowancounty-nc.gov/index.asp?SEC={164665BE-54CB-497A-B611-433DA2708EA6}"
+    },
+    {
+        "county": "CLAY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CLAY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-389-6812",
+        "address": "54 CHURCH STREET",
+        "city": "HAYESVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28904",
+        "notes": "https://www.elections.claync.us"
+    },
+    {
+        "county": "CLEVELAND",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CLEVELAND COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-484-4858",
+        "address": "215 PATTON DR.",
+        "city": "SHELBY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28150",
+        "notes": "http://www.clevelandcounty.com/main/departments/board_of_elections.php"
+    },
+    {
+        "county": "COLUMBUS",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "COLUMBUS COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-640-6609",
+        "address": "2322 JAMES B. WHITE HWY. N",
+        "city": "WHITEVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28472",
+        "notes": "http://columbusco.org/Departments/Boardofelections.aspx"
+    },
+    {
+        "county": "CRAVEN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CRAVEN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-636-6610",
+        "address": "406 CRAVEN STREET",
+        "city": "NEW BERN",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28560",
+        "notes": "http://www.cravenvote.com/"
+    },
+    {
+        "county": "CUMBERLAND",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CUMBERLAND COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-678-7733",
+        "address": "227 FOUNTAINHEAD LANE SUITE 101",
+        "city": "FAYETTEVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28301",
+        "notes": "http://www.co.cumberland.nc.us/departments/election-group/elections"
+    },
+    {
+        "county": "CURRITUCK",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "CURRITUCK COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-232-2525",
+        "address": "2811 CARATOKE HIGHWAY",
+        "city": "CURRITUCK",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27929",
+        "notes": "https://co.currituck.nc.us/departments/board-of-elections/"
+    },
+    {
+        "county": "DARE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "DARE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-475-5631",
+        "address": "954 MARSHALL COLLINS DRIVE",
+        "city": "MANTEO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27954",
+        "notes": "https://www.darenc.com/departments/board-of-elections/"
+    },
+    {
+        "county": "DAVIDSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "DAVIDSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-242-2190",
+        "address": "945 N MAIN ST SUITE A",
+        "city": "LEXINGTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27292",
+        "notes": "http://www.votedavidsoncountync.com"
+    },
+    {
+        "county": "DAVIE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "DAVIE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-753-6072",
+        "address": "161 POPLAR ST. SUITE 102",
+        "city": "MOCKSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27028",
+        "notes": "http://www.daviecountync.gov/index.aspx?nid=93"
+    },
+    {
+        "county": "DUPLIN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "DUPLIN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-296-2170",
+        "address": "160 MALLARD STREET",
+        "city": "KENANSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28349",
+        "notes": "http://www.duplincountync.com/governmentOffices/boardOfElections.html"
+    },
+    {
+        "county": "DURHAM",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "DURHAM COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-560-0700",
+        "address": "201 N. ROXBORO STREET",
+        "city": "DURHAM",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27701",
+        "notes": "http://www.dcovotes.com/"
+    },
+    {
+        "county": "EDGECOMBE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "EDGECOMBE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-641-7852",
+        "address": "201 ST ANDREW ST., RM 434",
+        "city": "TARBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27886",
+        "notes": "http://www.edgecombecountync.gov/departments/board_of_elections/"
+    },
+    {
+        "county": "FORSYTH",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "FORSYTH COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-703-2800",
+        "address": "201 N. CHESTNUT STREET",
+        "city": "WINSTON SALEM",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27101",
+        "notes": "http://www.fcvotes.com"
+    },
+    {
+        "county": "FRANKLIN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "FRANKLIN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-496-3898",
+        "address": "107 INDUSTRIAL DRIVE",
+        "city": "LOUISBURG",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27549",
+        "notes": "http://www.franklincountync.us/services/board-of-elections"
+    },
+    {
+        "county": "GASTON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "GASTON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-852-6005",
+        "address": "410 W. FRANKLIN BLVD., STE. 50",
+        "city": "GASTONIA",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28052",
+        "notes": "http://www.gastoncountyelections.com"
+    },
+    {
+        "county": "GATES",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "GATES COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-357-1780",
+        "address": "931 MAIN ST",
+        "city": "GATESVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27938",
+        "notes": "https://gatescounty.govoffice2.com/index.asp?SEC=969ACD2B-E638-449C-88E1-9883A3F3AB75&Type=B_BASIC"
+    },
+    {
+        "county": "GRAHAM",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "GRAHAM COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-479-7969",
+        "address": "18 COURT STREET",
+        "city": "ROBBINSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28771",
+        "notes": "http://grahamcounty.org/board-of-elections/"
+    },
+    {
+        "county": "GRANVILLE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "GRANVILLE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-693-2515",
+        "address": "208 WALL STREET",
+        "city": "OXFORD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27565",
+        "notes": "http://www.granvillecounty.org/government/board-of-elections/"
+    },
+    {
+        "county": "GREENE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "GREENE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-747-5921",
+        "address": "110 SE FIRST STREET",
+        "city": "SNOW HILL",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28580",
+        "notes": "http://www.greenecountyvotes.com"
+    },
+    {
+        "county": "GUILFORD",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "GUILFORD COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-641-3836",
+        "address": "301 W. MARKET ST, ROOM 115",
+        "city": "GREENSBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27401",
+        "notes": "http://www.guilfordelections.org"
+    },
+    {
+        "county": "HALIFAX",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HALIFAX COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-583-4391",
+        "address": "10 N. KING STREET",
+        "city": "HALIFAX",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27839",
+        "notes": "https://www.halifaxnc.com/243/Board-of-Elections"
+    },
+    {
+        "county": "HARNETT",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HARNETT COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-893-7553",
+        "address": "308 W. DUNCAN ST",
+        "city": "LILLINGTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27546",
+        "notes": "http://www.harnett.org/elections/"
+    },
+    {
+        "county": "HAYWOOD",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HAYWOOD COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-452-6633",
+        "address": "63 ELMWOOD WAY, SUITE A",
+        "city": "WAYNESVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28786",
+        "notes": "https://www.haywoodcountync.gov/173/Elections"
+    },
+    {
+        "county": "HENDERSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HENDERSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-697-4970",
+        "address": "75 E. CENTRAL ST.",
+        "city": "HENDERSONVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28792",
+        "notes": "http://www.hendersoncountync.gov/elections/"
+    },
+    {
+        "county": "HERTFORD",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HERTFORD COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-358-7812",
+        "address": "418 EVERETT ST, SUITE A",
+        "city": "AHOSKIE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27910",
+        "notes": "http://www.hertfordcountync.gov/departments/general-administration/elections/"
+    },
+    {
+        "county": "HOKE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HOKE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-875-8751 ext. 1550",
+        "address": "227 N MAIN ST",
+        "city": "RAEFORD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28376",
+        "notes": "http://www.hokecounty.net/index.aspx?nid=235"
+    },
+    {
+        "county": "HYDE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/2/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "HYDE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-926-4194",
+        "address": "1223 MAIN STREET",
+        "city": "SWAN QUARTER",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27885",
+        "notes": "http://www.hydecountync.gov/departments/elections_office.php"
+    },
+    {
+        "county": "IREDELL",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "IREDELL COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-878-3140",
+        "address": "203 STOCKTON ST.",
+        "city": "STATESVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28677",
+        "notes": "https://www.co.iredell.nc.us/162/Elections"
+    },
+    {
+        "county": "JACKSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "JACKSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-586-7538",
+        "address": "876 SKYLAND DRIVE, SUITE 1",
+        "city": "SYLVA",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28779",
+        "notes": "https://jcncelections.org"
+    },
+    {
+        "county": "JOHNSTON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "JOHNSTON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-989-5095",
+        "address": "205 S. SECOND ST.",
+        "city": "SMITHFIELD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27577",
+        "notes": "http://www.johnstonnc.com/joconcelections/"
+    },
+    {
+        "county": "JONES",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "JONES COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-448-3921",
+        "address": "367-B HWY 58-S",
+        "city": "TRENTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28585",
+        "notes": "https://www.jonescountync.gov/index.asp?SEC=62269930-4049-4977-8B95-4E5B7C747907"
+    },
+    {
+        "county": "LEE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "LEE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-718-4646",
+        "address": "225 S. STEELE ST.",
+        "city": "SANFORD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27330",
+        "notes": "https://leecountync.gov/Departments/Elections"
+    },
+    {
+        "county": "LENOIR",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "LENOIR COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-523-0636",
+        "address": "110-C S HERRITAGE ST",
+        "city": "KINSTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28501",
+        "notes": "http://www.co.lenoir.nc.us/boe.html"
+    },
+    {
+        "county": "LINCOLN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "LINCOLN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-736-8480",
+        "address": "451 SALEM CHURCH RD",
+        "city": "LINCOLNTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28092",
+        "notes": "http://www.lincolncounty.org/index.aspx?nid=112"
+    },
+    {
+        "county": "MACON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MACON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-349-2034 ext. 2035",
+        "address": "5 W MAIN ST, FLOOR 1",
+        "city": "FRANKLIN",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28734",
+        "notes": "http://maconnc.org/board-of-elections.html"
+    },
+    {
+        "county": "MADISON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MADISON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-649-3731",
+        "address": "140 ELIZABETH LANE",
+        "city": "MARSHALL",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28753",
+        "notes": "https://www.madisoncountync.gov/board-of-elections.html"
+    },
+    {
+        "county": "MARTIN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MARTIN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-789-4317",
+        "address": "305 E MAIN ST, ROOM 120",
+        "city": "WILLIAMSTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27892",
+        "notes": "http://www.martincountyncgov.com/election"
+    },
+    {
+        "county": "MCDOWELL",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MCDOWELL COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-659-0834",
+        "address": "2458 NC HWY 226 SOUTH",
+        "city": "MARION",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28752",
+        "notes": "http://www.mcdowellboe.com"
+    },
+    {
+        "county": "MECKLENBURG",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MECKLENBURG COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-336-2133",
+        "address": "741 KENILWORTH AVE STE 202",
+        "city": "CHARLOTTE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28204",
+        "notes": "http://www.meckboe.org/"
+    },
+    {
+        "county": "MITCHELL",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MITCHELL COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-688-3101",
+        "address": "11 N MITCHELL AVE, ROOM 108",
+        "city": "BAKERSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28705",
+        "notes": "https://www.mitchellcounty.org/departments/elections-board/"
+    },
+    {
+        "county": "MONTGOMERY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MONTGOMERY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-572-2024",
+        "address": "327 NORTH MAIN STREET",
+        "city": "TROY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27371",
+        "notes": "http://www.montgomerycountync.com/departments/board-of-elections"
+    },
+    {
+        "county": "MOORE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "MOORE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-947-3868",
+        "address": "700 PINEHURST AVENUE",
+        "city": "CARTHAGE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28327",
+        "notes": "http://www.moorecountync.gov/index.php/mnu-elect"
+    },
+    {
+        "county": "NASH",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "NASH COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-459-1350",
+        "address": "1006 EASTERN AVENUE, RM 109",
+        "city": "NASHVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27856",
+        "notes": "http://www.NashVotes2020.com"
+    },
+    {
+        "county": "NEW HANOVER",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "NEW HANOVER COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-798-7330",
+        "address": "230 GOVERNMENT CENTER DR., SUITE 38",
+        "city": "WILMINGTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28403",
+        "notes": "http://www.nhcvote.com"
+    },
+    {
+        "county": "NORTHAMPTON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "NORTHAMPTON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-534-5681 ext. 679",
+        "address": "9495 NC HWY 305, JW FAISON ADMIN BLDG",
+        "city": "JACKSON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27845",
+        "notes": "http://www.northamptonnc.com/government/board_of_elections/"
+    },
+    {
+        "county": "ONSLOW",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ONSLOW COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-455-4484",
+        "address": "246 GEORGETOWN RD.",
+        "city": "JACKSONVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28540",
+        "notes": "http://www.onslowcountync.gov/373/Board-of-Elections"
+    },
+    {
+        "county": "ORANGE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ORANGE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-245-2350",
+        "address": "208 S. CAMERON ST",
+        "city": "HILLSBOROUGH",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27278",
+        "notes": "http://orangecountync.gov/1720/Elections"
+    },
+    {
+        "county": "PAMLICO",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "PAMLICO COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-745-4821",
+        "address": "202 MAIN STREET",
+        "city": "BAYBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28515",
+        "notes": "http://www.pamlicocounty.org/board-of-elections.aspx"
+    },
+    {
+        "county": "PASQUOTANK",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "PASQUOTANK COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-335-1739",
+        "address": "1409 PARKVIEW DR.",
+        "city": "ELIZABETH CITY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27909",
+        "notes": "https://www.pasquotankcountync.org/elections/"
+    },
+    {
+        "county": "PENDER",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "PENDER COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-259-1220",
+        "address": "807 S. WALKER ST.",
+        "city": "BURGAW",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28425",
+        "notes": "http://www.pendercountync.gov/boe/"
+    },
+    {
+        "county": "PERQUIMANS",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "PERQUIMANS COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-426-5598",
+        "address": "601A S EDENTON RD ST",
+        "city": "HERTFORD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27944",
+        "notes": "http://www.co.perquimans.nc.us/departments/board-of-elections.html"
+    },
+    {
+        "county": "PERSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "PERSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-597-1727",
+        "address": "331 SOUTH MORGAN STREET",
+        "city": "ROXBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27573",
+        "notes": "https://www.personcountync.gov/departments-services/departments-a-h/elections"
+    },
+    {
+        "county": "PITT",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "PITT COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-902-3300",
+        "address": "1717 WEST 5TH STREET",
+        "city": "GREENVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27834",
+        "notes": "http://www.pittcountync.gov/163/Elections"
+    },
+    {
+        "county": "POLK",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "POLK COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-894-8181",
+        "address": "40 COURTHOUSE ST",
+        "city": "COLUMBUS",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28722",
+        "notes": "http://www.polknc.org/board_of_elections_2.php#.U_tVksVdV1B"
+    },
+    {
+        "county": "RANDOLPH",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "RANDOLPH COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-318-6900",
+        "address": "1457 N. FAYETTEVILLE ST.",
+        "city": "ASHEBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27203",
+        "notes": "http://www.randolphcountync.gov/Departments/Elections"
+    },
+    {
+        "county": "RICHMOND",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "RICHMOND COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-997-8253",
+        "address": "221 S. HANCOCK ST",
+        "city": "ROCKINGHAM",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28379",
+        "notes": "http://www.richmondnc.com/178/Board-of-Elections"
+    },
+    {
+        "county": "ROBESON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:15 AM",
+            "endTime": "5:15 PM"
+          }
+        ],
+        "name": "ROBESON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-671-3080",
+        "address": "800 N. WALNUT STREET",
+        "city": "LUMBERTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28358",
+        "notes": "https://www.co.robeson.nc.us/robeson-county-board-of-elections"
+    },
+    {
+        "county": "ROCKINGHAM",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ROCKINGHAM COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-342-8107",
+        "address": "240 CHEROKEE CAMP RD.",
+        "city": "REIDSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27320",
+        "notes": "http://www.co.rockingham.nc.us/pView.aspx?id=14836&catid=408"
+    },
+    {
+        "county": "ROWAN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "ROWAN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-216-8140",
+        "address": "1935 JAKE ALEXANDER BLVD W, SUITE D10",
+        "city": "SALISBURY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28147",
+        "notes": "http://www.rowancountync.gov/elections"
+    },
+    {
+        "county": "RUTHERFORD",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "RUTHERFORD COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-287-6030",
+        "address": "298 FAIRGROUND ROAD",
+        "city": "SPINDALE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28160",
+        "notes": "https://www.rutherfordcountync.gov/departments/board_of_elections/"
+    },
+    {
+        "county": "SAMPSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "SAMPSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-592-5796",
+        "address": "120 COUNTY COMPLEX ROAD, SUITE 110",
+        "city": "CLINTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28328",
+        "notes": "http://www.sampsonnc.com/departments/boe/index.php"
+    },
+    {
+        "county": "SCOTLAND",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "SCOTLAND COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "910-277-2595",
+        "address": "231 EAST CRONLY ST, SUITE 305",
+        "city": "LAURINBURG",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28352",
+        "notes": "http://www.scotlandcounty.org/332/Elections"
+    },
+    {
+        "county": "STANLY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "STANLY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-986-3647",
+        "address": "1000 N FIRST STREET SUITE 16",
+        "city": "ALBEMARLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28001",
+        "notes": "https://www.votestanlycountync.gov"
+    },
+    {
+        "county": "STOKES",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "STOKES COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-593-2409",
+        "address": "1012 MAIN STREET",
+        "city": "DANBURY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27016",
+        "notes": "http://www.co.stokes.nc.us/vote/"
+    },
+    {
+        "county": "SURRY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:15 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "SURRY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-401-8225",
+        "address": "915 E. ATKINS STREET",
+        "city": "DOBSON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27017",
+        "notes": "http://www.co.surry.nc.us/departments/(a_through_j)/board_of_elections/index.php"
+    },
+    {
+        "county": "SWAIN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "SWAIN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-488-6177",
+        "address": "1422 HWY 19 S.",
+        "city": "BRYSON CITY",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28713",
+        "notes": "http://www.swaincountync.gov/Elections/elections-home.html"
+    },
+    {
+        "county": "TRANSYLVANIA",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "TRANSYLVANIA COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-884-3114",
+        "address": "150 SOUTH GASTON STREET, SUITE A",
+        "city": "BREVARD",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28712",
+        "notes": "http://www.transylvaniaelections.org"
+    },
+    {
+        "county": "TYRRELL",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/2/2020",
+            "startTime": "9:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "TYRRELL COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-796-0775",
+        "address": "403 MAIN STREET",
+        "city": "COLUMBIA",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27925",
+        "notes": "http://tyrrellcounty.org"
+    },
+    {
+        "county": "UNION",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "UNION COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "704-283-3809",
+        "address": "316-B EAST WINDSOR ST",
+        "city": "MONROE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28112",
+        "notes": "http://www.unioncountync.gov/elections"
+    },
+    {
+        "county": "VANCE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "VANCE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-492-3730",
+        "address": "300 S. GARNETT ST, STE C",
+        "city": "HENDERSON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27536",
+        "notes": "http://www.vancecounty.org/departments/board-of-elections/"
+    },
+    {
+        "county": "WAKE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:15 PM"
+          }
+        ],
+        "name": "WAKE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-404-4040",
+        "address": "1200 N NEW HOPE ROAD",
+        "city": "RALEIGH",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27610",
+        "notes": "http://www.ReadyToVote.com"
+    },
+    {
+        "county": "WARREN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "WARREN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-257-2114",
+        "address": "309 N MAIN STREET-ANNEX BUILDING",
+        "city": "WARRENTON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27589",
+        "notes": "http://www.warrencountync.com/413/Elections-Board"
+    },
+    {
+        "county": "WASHINGTON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "WASHINGTON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-793-6017",
+        "address": "116 ADAMS ST",
+        "city": "PLYMOUTH",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27962",
+        "notes": "https://www.washconc.org/board_of_elections.aspx"
+    },
+    {
+        "county": "WATAUGA",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "WATAUGA COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-265-8061",
+        "address": "842 WEST KING STREET, STE. 6",
+        "city": "BOONE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28607",
+        "notes": "http://wataugacounty.org/App_Pages/Dept/BOE/home.aspx"
+    },
+    {
+        "county": "WAYNE",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "WAYNE COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "919-731-1411",
+        "address": "309 E. CHESTNUT ST.",
+        "city": "GOLDSBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27530",
+        "notes": "http://www.waynevotes.com/"
+    },
+    {
+        "county": "WILKES",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "WILKES COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-651-7339",
+        "address": "110 NORTH STREET, RM 315",
+        "city": "WILKESBORO",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28697",
+        "notes": "https://wilkescounty.net/183/Elections"
+    },
+    {
+        "county": "WILSON",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "WILSON COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "252-399-2836",
+        "address": "112 DOUGLAS ST. EAST",
+        "city": "WILSON",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27893",
+        "notes": "https://www.wilson-co.com/departments/board-of-elections"
+    },
+    {
+        "county": "YADKIN",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:00 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "YADKIN COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "336-849-7907",
+        "address": "213 EAST ELM STREET ROOM 100",
+        "city": "YADKINVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "27055",
+        "notes": "http://www.yadkincountync.gov/index.aspx?nid=88"
+    },
+    {
+        "county": "YANCEY",
+        "schedule": [
+          {
+            "startDate": "11/2/2020",
+            "endDate": "11/3/2020",
+            "startTime": "8:30 AM",
+            "endTime": "5:00 PM"
+          }
+        ],
+        "name": "YANCEY COUNTY BOARD OF ELECTIONS",
+        "type": "clerk",
+        "source": "https://vt.ncsbe.gov/BOEInfo/PrintableVersion/",
+        "phone": "828-682-3950",
+        "address": "30 EAST US HWY 19E BY-PASS, SUITE 2",
+        "city": "BURNSVILLE",
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "zip": "28714",
+        "notes": "http://www.yanceycountync.gov"
+    }
+]
